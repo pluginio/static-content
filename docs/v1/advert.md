@@ -11,7 +11,7 @@ author: Gary Paluk
 api.advert.showBanner(): void
 ```
 
-![alt](http://localhost/static/docs/v1/images/api_advert_banner.gif)
+![alt](https://raw.githubusercontent.com/pluginio/static-content/main/docs/v1/images/api_advert_banner.gif)
 
 A banner advert as displayed by this particular image...
 
