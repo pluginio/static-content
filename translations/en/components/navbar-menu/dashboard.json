@@ -1,0 +1,13 @@
+{
+    "dashboard": "Dashboard",
+    "overview": "Overview",
+    "retention": "Retention",
+    "growth": "Growth",
+    "kpi": "KPI",
+    "crash_logs": "Crash logs",
+    "latest_release": "Latest release",
+    "engagement": "Engagement",
+    "audience": "Audience",
+    "revenue": "Revenue",
+    "events": "Events"
+}

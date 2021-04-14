@@ -1,0 +1,20 @@
+{
+    "all": "All",
+    "action": "Action",
+    "adventure": "Adventure",
+    "arcade": "Arcade",
+    "board": "Board",
+    "card": "Card",
+    "casino": "Casino",
+    "casual": "Casual",
+    "educational": "Educational",
+    "music": "Music",
+    "puzzle": "Puzzle",
+    "racing": "Racing",
+    "role_playing": "Role Playing",
+    "simulation": "Simulation",
+    "sports": "Sports",
+    "strategy": "Strategy",
+    "trivia": "Trivia",
+    "word": "Word"
+}

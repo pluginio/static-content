@@ -1,0 +1,21 @@
+{
+    "banner_alt": "Banner alt text",
+    "publish_advert": "Publish advert",
+    "select_an_audience": "Select an audience",
+    "default_audience": "Default audience",
+    "create_a_new_audience": "Create a new audience",
+    "delete_audience": "Delete audience",
+    "duration_and_budget": "Duration and budget",
+    "select_the_campaign_style": "Select the campaign style for your ad. Run continuously is recommended.",
+    "run_continuously": "Run continuously",
+    "daily_budget": "Daily budget",
+    "the_actual_amount": "The actual amount spent daily may vary",
+    "spend_more_info": "More info",
+    "estimated_clicks_per_day": "Estimated {{num_clicks}} clicks per day",
+    "estimated_more_info": "More info",
+    "preview": "Preview",
+    "select_your_preview_language": "Select your preview language",
+    "publish": "Publish",
+    "by_clicking_publish": "By clicking publish below, you are agreeing to the Plugin.IO",
+    "terms_and_conditions": "terms and conditions"
+}
