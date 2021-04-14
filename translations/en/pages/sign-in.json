@@ -1,0 +1,11 @@
+{
+    "welcome": "Welcome!",
+    "register_an_new_account": "Register a new account",
+    "username_or_email": "Username or email *",
+    "your_password": "Your password *",
+    "forgot_your_passeword": "Forgot your password?",
+    "sign_in": "Sign in",
+    "sign_in_with_facebook": "Sign in with Facebook",
+    "sign_in_with_twitter": "Sign in with Twitter",
+    "sign_in_with_google": "Sign in with Google"
+}
