@@ -7,16 +7,16 @@ Public static content.
 ### The Plugin.IO content is available in the following languages:
   
 
-| Language                | Native                | Contribute                                                           |
-| :-----------------------|:----------------------|:---------------------------------------------------------------------|
+| Language                | Native                | Contribute                                                                |
+| :-----------------------|:----------------------|:--------------------------------------------------------------------------|
 | English                 | English               | [link](https://github.com/pluginio/static-content/tree/main/lang/en)      |
 
 
 ### In progress
   
 
-| Language                | Native                | Contribute                                                           |
-| :-----------------------|:----------------------|:---------------------------------------------------------------------|
+| Language                | Native                | Contribute                                                                |
+| :-----------------------|:----------------------|:--------------------------------------------------------------------------|
 | Arabic                  | العربية               | [link](https://github.com/pluginio/static-content/tree/main/lang/ar)      |
 | Chinese (Simplified)    | 简体中文               | [link](https://github.com/pluginio/static-content/tree/main/lang/zh-hanz) |
 | Chinese (Traditional)   | 繁體中文               | [link](https://github.com/pluginio/static-content/tree/main/lang/zh-hant) |
@@ -37,8 +37,8 @@ Public static content.
 ### Needs contributors
   
 
-| Language                | Native                | Contribute                                                           |
-| :-----------------------|:----------------------|:---------------------------------------------------------------------|
+| Language                | Native                | Contribute                                                                |
+| :-----------------------|:----------------------|:--------------------------------------------------------------------------|
 | Armenian                | Հայերեն               | [link](https://github.com/pluginio/static-content/tree/main/lang/hy)      |
 | Azerbaijani             | Azərbaycanca          | [link](https://github.com/pluginio/static-content/tree/main/lang/az)      |
 | Bengali                 | বাংলা                  | [link](https://github.com/pluginio/static-content/tree/main/lang/bn)      |
