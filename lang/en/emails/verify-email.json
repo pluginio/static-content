@@ -1,0 +1,7 @@
+{
+    "welcome_to_pluginio": "Welcome to Plugin.IO!",
+    "please_verify": "Please verify your email address by clicking the link below",
+    "verify_me_email": "Verify my email",
+    "copyright":  "© {{date}} Plugin.IO",
+    "subject": "[Plugin.IO] Please verify your email address"
+}
