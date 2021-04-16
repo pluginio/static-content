@@ -5,7 +5,8 @@ author: Gary Paluk
 
 # Advert
 
-<b>Plugin.IO Ads</b> helps publishers and advertisers to reach their business goals. Use <b>Plugin.IO Ads</b> to drive revenue from your apps and games.
+<b>Plugin.IO Ads</b> help publishers and advertisers to reach their business goals. Use <b>Plugin.IO Ads</b> to 
+generate revenue from your apps and games. All ads are subject to our platform content guidelines.
 
 <br />
 
@@ -13,8 +14,9 @@ author: Gary Paluk
 
 * [Banner](#banner)
 * [Image](#image)
-* [Video](#banner)
-* [Rewarded Video](#banner)
+* [Carousel](#carousel)
+* [Video](#video)
+* [Rewarded Video](#rewarded-video)
 
 <br />
 
@@ -33,25 +35,25 @@ api.advert.showBanner(BannerPosition.Bottom);
 ### Parameters
 <br />
 
-><b>position</b> - optional
+> <b>position</b> - optional
 
 <br />
 
 A banner advert may be displayed at the top or bottom of the screen. You may provide either of the position 
-properties; `BannerPosition.TOP` or `BannerPosition.BOTTOM`. If no value is provided, the banner will be 
-displayed at the top.
+properties; `BannerPosition.TOP` or `BannerPosition.BOTTOM`. When no value is provided, a banner will be 
+displayed at the top of the screen.
 
-<b>Important:</b> If the is no advert available when this method is called, an ad can <b>not</b> be displayed.
+If no advert is available when `showBanner` is called, an advert will <b>not</b> be displayed.
 
-<br />
 <br />
 
 ### Errors
 
-If an error occurs
-<br />
+If an error occurs during a banner advert request, no information is displayed to the end user.
+
 <br />
 
+<a name="image"></a>
 # Image advert
 
 <!-- ![alt](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/api_advert_banner.gif) -->
@@ -60,21 +62,16 @@ If an error occurs
 api.advert.showImage();
 ```
 
-### Fields
+### Parameters
+<br />
 
 > There are no fields associated with this API request.
 
+
 <br />
-<br />
 
 
-### Response
-| Name              | Description                | Type                                                                |
-| :-----------------|:----------------------|:--------------------------------------------------------------------------|
-| English           | English               | [link](https://github.com/pluginio/static-content/tree/main/lang/en)      |
-
-
-## Example response
+### Example response
 ```
 {
     "data": {
@@ -85,7 +82,10 @@ api.advert.showImage();
 }
 ```
 
-## Error response
+<br />
+<br />
+
+### Error response
 
 ```
 {
@@ -98,21 +98,28 @@ api.advert.showImage();
 }
 ```
 
-A banner advert as displayed by this particular image...
+<br />
 
-##### Show an image advert
+<a name="carousel"></a>
+# Carousel advert
 
 ```
-api.advert.showImage() :void
+api.advert.showCarosel() :void
 ```
 
-##### Show a video advert
+<br />
+
+<a name="video"></a>
+# Video advert
 
 ```
 api.advert.showVideo(): void
 ```
 
-##### Show a rewarded video advert
+<br />
+
+<a name="rewarded-video"></a>
+# Rewarded video advert
 
 ```
 api.advert.showVideoReward(id: string): void
