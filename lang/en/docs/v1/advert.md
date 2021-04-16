@@ -1,33 +1,45 @@
 ---
-title: Advert
+title: Advert API
 author: Gary Paluk
 ---
+![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
+
+<br />
+
+### ⬅️ [Go back to Getting Started](./getting-started)
+
+<br />
 
 # ✳️ Advert API
 
 <b>Plugin.IO Ads</b> help publishers and advertisers to reach their business goals. Use <b>Plugin.IO Ads</b> to 
-generate revenue from your apps and games. All ads are subject to our platform content guidelines.
+generate revenue from your apps and games. All ads are subject to our platform <b>[content guidelines](./content-guidelines)</b>.
 
 <br />
 
-## 🗒 Contents
+# 🗒 Contents
 
-* [Banner](#banner)
-* [Image](#image)
-* [Carousel](#carousel)
-* [Video](#video)
-* [Rewarded Video](#rewarded-video)
+* [Banner advert](#banner)
+* [Image advert](#image)
+* [Carousel advert](#carousel)
+* [Video advert](#video)
+* [Rewarded video advert](#rewarded-video)
 
 <br />
 
 <a name="banner"></a>
 # 🎯 Banner advert 
 
-A banner advert
-
 <!-- ![alt](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/api_advert_banner.gif) -->
+A banner advert may be displayed at the top or bottom of the screen. You may provide either of the position 
+properties; `BannerPosition.TOP` or `BannerPosition.BOTTOM`. When no value is provided, a banner will be 
+displayed at the top of the screen.
 
-### Example
+If no advert is available when `showBanner` is called, an advert will <b>not</b> be displayed.
+
+<br />
+
+## Example
 
 ```typescript
 api.advert.showBanner(BannerPosition.Bottom);
@@ -37,14 +49,6 @@ api.advert.showBanner(BannerPosition.Bottom);
 <br />
 
 > <b>position</b> - optional
-
-<br />
-
-A banner advert may be displayed at the top or bottom of the screen. You may provide either of the position 
-properties; `BannerPosition.TOP` or `BannerPosition.BOTTOM`. When no value is provided, a banner will be 
-displayed at the top of the screen.
-
-If no advert is available when `showBanner` is called, an advert will <b>not</b> be displayed.
 
 <br />
 
