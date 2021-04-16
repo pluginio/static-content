@@ -105,7 +105,7 @@ api.advert.showImage();
 # 🎯 Carousel advert
 
 ```typescript
-api.advert.showCarosel() :void
+api.advert.showCarosel(): void
 ```
 
 <br />
