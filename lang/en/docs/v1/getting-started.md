@@ -3,29 +3,44 @@ title: Getting started
 author: Gary Paluk
 ---
 
-# Getting started
+![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
+
+<br />
+
+# ✳️ Getting started
+
+// Add information about regit here
 
 ## Installation
 
+<br />
+
 Inside your project directory, install PluginIO by running either of the following:
 
-```js
+```typescript
 npm i @pluginio/sdk
 ```
 
-```js
+<br />
+
+```typescript
 yarn add @pluginio/sdk
 ```
 
+<br />
+<br />
+
 > For **create-react-app** installation instructions, check this [CRA templates guide](guides/integrations/with-cra).
 
-## Setup Provider
+<br />
+
+# ✳️ React Provider
 
 If you are using React, you can set up the **PluginProvider** at the root of your application.
 
 Go to the root of your project and do this:
 
-```
+```typescript
 function App() {
   return (
     <PluginProvider>
