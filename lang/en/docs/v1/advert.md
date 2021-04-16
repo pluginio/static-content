@@ -3,7 +3,7 @@ title: Advert
 author: Gary Paluk
 ---
 
-# Advert
+# Advert API
 
 <b>Plugin.IO Ads</b> help publishers and advertisers to reach their business goals. Use <b>Plugin.IO Ads</b> to 
 generate revenue from your apps and games. All ads are subject to our platform content guidelines.
