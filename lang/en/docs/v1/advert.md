@@ -3,14 +3,14 @@ title: Advert
 author: Gary Paluk
 ---
 
-# Advert API
+# ✳️ Advert API
 
 <b>Plugin.IO Ads</b> help publishers and advertisers to reach their business goals. Use <b>Plugin.IO Ads</b> to 
 generate revenue from your apps and games. All ads are subject to our platform content guidelines.
 
 <br />
 
-## Contents
+## 🗒 Contents
 
 * [Banner](#banner)
 * [Image](#image)
@@ -21,7 +21,7 @@ generate revenue from your apps and games. All ads are subject to our platform c
 <br />
 
 <a name="banner"></a>
-# Banner advert
+# 🎯 Banner advert 
 
 A banner advert
 
@@ -54,7 +54,7 @@ If an error occurs during a banner advert request, no information is displayed t
 <br />
 
 <a name="image"></a>
-# Image advert
+# 🎯 Image advert
 
 <!-- ![alt](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/api_advert_banner.gif) -->
 
@@ -101,7 +101,7 @@ api.advert.showImage();
 <br />
 
 <a name="carousel"></a>
-# Carousel advert
+# 🎯 Carousel advert
 
 ```
 api.advert.showCarosel() :void
@@ -110,7 +110,7 @@ api.advert.showCarosel() :void
 <br />
 
 <a name="video"></a>
-# Video advert
+# 🎯 Video advert
 
 ```
 api.advert.showVideo(): void
@@ -119,7 +119,7 @@ api.advert.showVideo(): void
 <br />
 
 <a name="rewarded-video"></a>
-# Rewarded video advert
+# 🎯 Rewarded video advert
 
 ```
 api.advert.showVideoReward(id: string): void
