@@ -28,7 +28,8 @@ A banner advert
 <!-- ![alt](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/api_advert_banner.gif) -->
 
 ### Example
-```
+
+```typescript
 api.advert.showBanner(BannerPosition.Bottom);
 ```
 
@@ -58,7 +59,7 @@ If an error occurs during a banner advert request, no information is displayed t
 
 <!-- ![alt](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/api_advert_banner.gif) -->
 
-```
+```typescript
 api.advert.showImage();
 ```
 
@@ -72,7 +73,7 @@ api.advert.showImage();
 
 
 ### Example response
-```
+```json
 {
     "data": {
         "showBanner": {
@@ -87,7 +88,7 @@ api.advert.showImage();
 
 ### Error response
 
-```
+```json
 {
     "data": null,
     "errors": [
@@ -103,7 +104,7 @@ api.advert.showImage();
 <a name="carousel"></a>
 # 🎯 Carousel advert
 
-```
+```typescript
 api.advert.showCarosel() :void
 ```
 
@@ -112,7 +113,7 @@ api.advert.showCarosel() :void
 <a name="video"></a>
 # 🎯 Video advert
 
-```
+```typescript
 api.advert.showVideo(): void
 ```
 
@@ -121,6 +122,6 @@ api.advert.showVideo(): void
 <a name="rewarded-video"></a>
 # 🎯 Rewarded video advert
 
-```
+```typescript
 api.advert.showVideoReward(id: string): void
 ```
