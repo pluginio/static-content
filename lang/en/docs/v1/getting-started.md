@@ -21,12 +21,12 @@ Our focus at Plugin.IO is to provide great user experience and simplicity. Most 
 * [Getting Started](#getting-started)
 * [Advert API](./advert.md)
 * [Analytics API](./analytics.md)
-* [Camera API](#./camera.md)
-* [Console API](#./console.md)
-* [Data API](#./data.md)
-* [Purchase API](#./purchase.md)
-* [Share API](#./share.md)
-* [User API](#./user.md)
+* [Camera API](./camera.md)
+* [Console API](./console.md)
+* [Data API](./data.md)
+* [Purchase API](./purchase.md)
+* [Share API](./share.md)
+* [User API](./user.md)
 
 <br />
 
