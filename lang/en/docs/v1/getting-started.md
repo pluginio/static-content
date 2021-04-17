@@ -10,7 +10,7 @@ author: Gary Paluk
 
 # About
 
-The Plugin.IO SDK provides a collection of APIs that enable developers to easily add Plugin.IO features to their web applications. This include; log in, monetization, social sharing and micro data storage as well as marketplace and NFT features.
+The Plugin.IO SDK provides a collection of APIs that enable developers to easily add Plugin.IO features to their web applications. This includes; log in, monetization, social sharing and micro data storage as well as marketplace and NFT features.
 
 Our focus at Plugin.IO is to provide great user experience and simplicity. Most features can be invoked with a single API call.
 
