@@ -18,7 +18,7 @@ Our focus at Plugin.IO is to provide great user experience and simplicity. Most 
 
 # 🗒 Contents
 
-* [Getting Started](#getting-started)
+* [Getting Started](#getting-started) ⚓ 
 * [Advert API](./advert.md)
 * [Analytics API](./analytics.md)
 * [Camera API](./camera.md)
@@ -33,9 +33,9 @@ Our focus at Plugin.IO is to provide great user experience and simplicity. Most 
 <a name="getting-started"></a>
 # ✳️ Getting started
 
-* [Installation](#installation)
-* [Helper templates](#helper-templates.md)
-* [React provider](#react-provider.md)
+* [Installation](#installation) ⚓
+* [Helper templates](#helper-templates.md) ⚓
+* [React provider](#react-provider.md) ⚓
 
 <br />
 
