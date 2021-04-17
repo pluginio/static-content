@@ -5,14 +5,13 @@ author: Gary Paluk
 
 ![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
 
-
 <br />
 
-# About
+# Plugin.IO SDK
 
-The Plugin.IO SDK provides a collection of APIs that enable developers to easily add Plugin.IO features to their web applications. These features include; log in, monetization, social sharing and micro data storage as well as marketplace and NFT features.
+The Plugin.IO SDK allows developers to easily add [Plugin.IO](https://plugin.io) features to their web applications. These features include; log in, monetization, social sharing and micro data storage as well as marketplace and NFT features etc.
 
-Our focus at Plugin.IO is to provide great user experience and simplicity. Most features can be invoked with a single API call.
+Our focus at Plugin.IO is to provide great user experiences with simplicity, and most SDK features are available using a single API call.
 
 <br/>
 
@@ -34,64 +33,67 @@ Our focus at Plugin.IO is to provide great user experience and simplicity. Most 
 # 🚀 Getting started
 
 * [Installation](#installation) ⚓
-* [Helper templates](#helper-templates) ⚓
+* [Application templates](#application-templates) ⚓
 * [React provider](#react-provider) ⚓
+* [Examples](#examples)  ⚓
+* [Contributing](#contributing)  ⚓
 
 <br />
 
 <a name="installation"></a>
 # ✳️ Installation
 
-<br />
+You can the use the Plugin.IO SDK from a CDN. (Coming soon)
 
-Inside your project directory, install the Plugin.IO SDK by running either of the following:
+or as an `npm` package.
 
-```typescript
+Inside your project directory, install the Plugin.IO SDK by running either of the following commands:
+
+```
 npm i @pluginio/sdk
 ```
 
 <br />
 
-```typescript
+```
 yarn add @pluginio/sdk
 ```
 
 <br />
 
-<a name="helper-templates"></a>
-# ✳️ Helper templates
+<a name="application-templates"></a>
+# ✳️ Application templates
 
-You can quickly create a new Plugin.IO application project using the [create-app](https://github.com/pluginio/create-app) monorepo.
+You can quickly create a new Plugin.IO application by using the [create-app](https://github.com/pluginio/create-app) monorepo templates. Use the excellent [Degit](https://github.com/Rich-Harris/degit) library to clone the relevant project structure.
 
 <br />
 
-### JavaScript
+JavaScript
 ```javascript
 npx degit pluginio/create-app/javascript your-project-name
 ```
 
 <br />
 
-### TypeScript
+TypeScript
 ```
 npx degit pluginio/create-app/typescript your-project-name
 ```
 
 <br />
 
-### React
+React
 ```
 npx degit pluginio/create-app/react your-project-name
 ```
 
 <br />
 
-### React hooks
+React hooks
 ```
 npx degit pluginio/create-app/react-hooks your-project-name
 ```
 
-<br />
 <br />
 
 > For **create-react-app** installation instructions, check this [CRA templates guide](guides/integrations/with-cra).
@@ -101,9 +103,7 @@ npx degit pluginio/create-app/react-hooks your-project-name
 <a name="react-provider"></a>
 # ✳️ React Provider
 
-If you are using React, you can add the **PluginProvider** at the root of your application.
-
-Go to the root of your project and do this:
+If you are using [React](https://github.com/facebook/react) you can add the **PluginProvider** at the root of your application.
 
 ```typescript
 function App() {
@@ -115,48 +115,31 @@ function App() {
 }
 ```
 
-> For Create React App, you need to set this up in **index.js** or **index.tsx**
+<br />
+
+> For **create-react-app**, you need to set this up in **index.js** or **index.tsx**
 
 <br />
 
-# Test area
+<a name="examples"></a>
+# ✳️ Examples
 
-### typography
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
-p
+* Coming soon...
 
-*italic*
+<br />
 
-**strong**
 
-_emphasis_
+<a name="contributing"></a>
+# ✳️ Contributing
 
-~~strikethrough~~
+<br />
 
-> blockquote
+## [Code of conduct](./conduct.md)
 
-<!-- ### image
-![alt](https://mdx-logo.now.sh) -->
+Plugin.IO has adopted a Code of Conduct as outlined by [Contributor Covinent v2.0](./conduct.md). Please read the [full text](./conduct.md) so that you can understand what actions will and will not be considered acceptable.
 
-### ul
-- List item 1
-- List item 2
+<br />
 
-### ol
-1. List item 1
-2. List item 2
+## [Contribution guidelines](./contribution-guidelines.md)
 
-```
-console.log("Hello world!");
-```
-
-<Button
-    mt={4}
-    colorScheme="red">
-    Login
-</Button>
+Read our [contribution guidelines](./contribution-guidelines.md) to learn about our development processes, how to propose bugfixes and improvements, and how to build and test your changes to Plugin.IO.
