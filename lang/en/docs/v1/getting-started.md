@@ -34,8 +34,8 @@ Our focus at Plugin.IO is to provide great user experience and simplicity. Most 
 # ✳️ Getting started
 
 * [Installation](#installation) ⚓
-* [Helper templates](#helper-templates.md) ⚓
-* [React provider](#react-provider.md) ⚓
+* [Helper templates](#helper-templates) ⚓
+* [React provider](#react-provider) ⚓
 
 <br />
 
