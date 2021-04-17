@@ -10,13 +10,13 @@ author: Gary Paluk
 
 # About
 
-The Plugin.IO SDK provides a collection of APIs that enable developers to easily add Plugin.IO features to their web applications. This includes; log in, monetization, social sharing and micro data storage as well as marketplace and NFT features.
+The Plugin.IO SDK provides a collection of APIs that enable developers to easily add Plugin.IO features to their web applications. These features include; log in, monetization, social sharing and micro data storage as well as marketplace and NFT features.
 
 Our focus at Plugin.IO is to provide great user experience and simplicity. Most features can be invoked with a single API call.
 
 <br/>
 
-# 🗒 Contents
+# 📖 Contents
 
 * [Getting Started](#getting-started) ⚓ 
 * [Advert API](./advert.md)
@@ -31,7 +31,7 @@ Our focus at Plugin.IO is to provide great user experience and simplicity. Most 
 <br />
 
 <a name="getting-started"></a>
-# ✳️ Getting started
+# 🚀 Getting started
 
 * [Installation](#installation) ⚓
 * [Helper templates](#helper-templates) ⚓
@@ -40,7 +40,7 @@ Our focus at Plugin.IO is to provide great user experience and simplicity. Most 
 <br />
 
 <a name="installation"></a>
-## Installation
+# ✳️ Installation
 
 <br />
 
@@ -61,34 +61,34 @@ yarn add @pluginio/sdk
 <a name="helper-templates"></a>
 # ✳️ Helper templates
 
-We have created project templates to help you quickly and easily set up your new Plugin.IO Web App.
+You can quickly create a new Plugin.IO application project using the [create-app](https://github.com/pluginio/create-app) monorepo.
 
 <br />
 
-## JavaScript
+### JavaScript
 ```javascript
-npx degit pluginio/sdk-starter/javascript my-project-name
+npx degit pluginio/create-app/javascript your-project-name
 ```
 
 <br />
 
-## TypeScript
+### TypeScript
 ```
-npx degit pluginio/sdk-starter/typescript my-project-name
-```
-
-<br />
-
-## React
-```
-npx degit pluginio/sdk-starter/react my-project-name
+npx degit pluginio/create-app/typescript your-project-name
 ```
 
 <br />
 
-## React hooks
+### React
 ```
-npx degit pluginio/sdk-starter/react-hooks my-project-name
+npx degit pluginio/create-app/react your-project-name
+```
+
+<br />
+
+### React hooks
+```
+npx degit pluginio/create-app/react-hooks your-project-name
 ```
 
 <br />
