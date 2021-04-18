@@ -144,7 +144,7 @@ Features:
 
 Clone this App using: 
 
-```javascript
+```
 npx degit pluginio/create-app/examples/loop your-project-name
 ```
 
