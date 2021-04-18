@@ -165,8 +165,6 @@ Try it live on [Plugin.IO](https://plugin.io/app?id=com.orkoa.loop) 🔗
 <a name="contributing"></a>
 # ✳️ Contributing
 
-<br />
-
 ## [Code of conduct](./conduct.md)
 
 Plugin.IO has adopted a Code of Conduct as outlined by [Contributor Covinent v2.0](./conduct.md). Please read the [full text](./conduct.md) so that you can understand what actions will and will not be considered acceptable.
