@@ -134,6 +134,12 @@ We have created a selection of examples to help you get started building Plugin.
 
 ### 📻 Loop - Online radio
 
+<br />
+
+[Loop App displaying dark mode](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/loop_dark.png)
+
+<br />
+
 Features:
 * React TypeScript
 * Functional programming styleß
