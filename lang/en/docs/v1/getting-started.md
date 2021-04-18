@@ -134,11 +134,9 @@ We have created a selection of examples to help you get started building Plugin.
 
 ### 📻 Loop - Online radio
 
-<br />
-
-### Features:
+Features:
 * React TypeScript
-* Functional programming style
+* Functional programming styleß
 * Uses PluginProvider
 * Light and dark mode
 
