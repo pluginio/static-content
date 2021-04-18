@@ -124,10 +124,37 @@ function App() {
 <a name="examples"></a>
 # ✳️ Examples
 
-* Coming soon...
+<br />
+
+We have created a selection of examples to help you get started building Plugin.IO applications. These examples are MIT licenced and as such, you can do anything that you like with them. Have fun learning whilst adding new and exciting features.
+
+**Note:** Please make significant changes if you plan on adding your App to the Plugin.IO [App Store](https://plugin.io/apps/).
 
 <br />
 
+## 📻 Loop - Online radio
+
+<br />
+
+### Features:
+* React TypeScript
+* Functional programming style
+* Uses PluginProvider
+* Light and dark mode
+
+<br />
+
+Clone this App using: 
+
+```javascript
+npx degit pluginio/create-app/examples/loop your-project-name
+```
+
+View the source code on [GitHub](https://github.com/pluginio/create-app/examples/loop) 🔗
+
+Try it live on [Plugin.IO](https://plugin.io/ar/app?id=com.orkoa.loop) 🔗
+
+<br />
 
 <a name="contributing"></a>
 # ✳️ Contributing
