@@ -143,9 +143,10 @@ We have created a selection of examples to help you get started building Plugin.
 ### Features:
 
 * React TypeScript
+* Chakra UI
 * Functional programming style
 * Uses PluginProvider
-* Light and dark mode
+* Light and dark modes
 
 <br />
 
