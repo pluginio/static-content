@@ -158,7 +158,7 @@ npx degit pluginio/create-app/examples/loop your-project-name
 
 View the source code on [GitHub](https://github.com/pluginio/create-app/examples/loop) 🔗
 
-Try it live on [Plugin.IO](https://plugin.io/ar/app?id=com.orkoa.loop) 🔗
+Try it live on [Plugin.IO](https://plugin.io/app?id=com.orkoa.loop) 🔗
 
 <br />
 
