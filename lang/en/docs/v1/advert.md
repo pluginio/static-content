@@ -61,11 +61,11 @@ If an error occurs during a banner advert request, no information is displayed t
 
 <a name="image"></a>
 # 🎯 Image advert
+![Beta feature](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png)
 
-An Image advert displays a fullscreen advert which contains an image element.
+An Image advert displays a fullscreen advert which contains an image element. Image adverts can be skipped after 5 seconds.
 
 If there are no adverts are available when `showImage` is called, no advert will be displayed.
-
 
 <br />
 
@@ -90,7 +90,7 @@ If an error occurs during an image advert request, no information is displayed t
 # 🎯 Carousel advert
 
 ```typescript
-api.advert.showCarosel(): void
+api.advert.showCarousel();
 ```
 
 <br />
@@ -99,7 +99,7 @@ api.advert.showCarosel(): void
 # 🎯 Video advert
 
 ```typescript
-api.advert.showVideo(): void
+api.advert.showVideo();
 ```
 
 <br />
@@ -108,5 +108,5 @@ api.advert.showVideo(): void
 # 🎯 Rewarded video advert
 
 ```typescript
-api.advert.showVideoReward(id: string): void
+api.advert.showVideoReward("advert-reward-id");
 ```
