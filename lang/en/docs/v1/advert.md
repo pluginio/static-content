@@ -32,11 +32,11 @@ generate revenue from your apps and games. All ads are subject to our platform <
 # 🎯 Banner advert 
 
 <!-- ![alt](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/api_advert_banner.gif) -->
-A banner advert may be displayed at the top or bottom of the screen. You may provide either of the position 
+A Banner advert may be displayed at the top or bottom of the screen. You may provide either of the position 
 properties; `BannerPosition.TOP` or `BannerPosition.BOTTOM`. When no value is provided, a banner will be 
 displayed at the top of the screen.
 
-If no advert is available when `showBanner` is called, an advert will <b>not</b> be displayed.
+If there are no adverts are available when `showBanner` is called, no advert be displayed.
 
 <br />
 
@@ -62,7 +62,12 @@ If an error occurs during a banner advert request, no information is displayed t
 <a name="image"></a>
 # 🎯 Image advert
 
-<!-- ![alt](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/api_advert_banner.gif) -->
+An Image advert displays a fullscreen advert which contains an image element.
+
+If there are no adverts are available when `showImage` is called, no advert will be displayed.
+
+
+<br />
 
 ```typescript
 api.advert.showImage();
@@ -73,36 +78,11 @@ api.advert.showImage();
 
 > There are no fields associated with this API request.
 
-
 <br />
 
+### Errors
 
-### Example response
-```json
-{
-    "data": {
-        "showBanner": {
-            "id": "8beb26d0-9e3d-11eb-a8b3-0242ac130003"
-        }
-    }
-}
-```
-
-<br />
-<br />
-
-### Error response
-
-```json
-{
-    "data": null,
-    "errors": [
-        {
-            "message": "Banner could not be shown at this time."
-        }
-    ]
-}
-```
+If an error occurs during an image advert request, no information is displayed to the end user.
 
 <br />
 

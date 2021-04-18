@@ -103,14 +103,50 @@ npx degit pluginio/create-app/react-hooks your-project-name
 <a name="react-provider"></a>
 # ✳️ React Provider
 
-If you are using [React](https://github.com/facebook/react) you can add the **PluginProvider** at the root of your application.
+If you are using [React](https://github.com/facebook/react) you can add the `PluginProvider` at the root of your application.
 
-```typescript
+```jsx
+import React from 'react';
+import { render } from 'react-dom';
+import { PluginProvider } from "@pluginio/sdk-react";
+
 function App() {
   return (
-    <PluginProvider>
-      <App />
-    </PluginProvider>
+    <div>
+      <h2>My first Plugin.IO App 🚀</h2>
+    </div>
+  )
+}
+
+render (
+  <PluginProvider>
+    <App />
+  </PluginProvider>
+  document.getElementById('root');
+);
+```
+
+Once your `PluginProvider` is hooked up, you're ready to start calling API services with `usePlugin()`
+
+```jsx
+import React, { useEffect } from 'react';
+import { EventType, usePlugin } from "@pluginio/sdk-react";
+
+const MyComponent = () => {
+  const { api, addEventListener, config } = usePlugin();
+
+  useEffect(() => {
+    addEventListener(EventType.CAMERA_RESPONSE, (e: MessageEvent) => {
+      console.log(EventType.CAMERA_RESPONSE, e.data);
+    });
+  }
+
+  const startCamera = () => api.camera.start();
+
+  return (
+    <button onClick={startCamera}>
+      Take a picture! 📸
+    </button>
   )
 }
 ```
@@ -126,7 +162,7 @@ function App() {
 
 <br />
 
-We have created a selection of examples to help you get started building Plugin.IO applications. These examples are MIT licenced and as such, you can do anything that you like with them. Have fun learning whilst adding new and exciting features.
+We have created some examples to help you get started building Plugin.IO applications. These examples are MIT licenced and as such, you can do anything that you like with them. Have fun learning whilst adding new and exciting features.
 
 **Note:** Please make significant changes if you plan on adding your App to the Plugin.IO [App Store](https://plugin.io/apps/).
 
@@ -145,7 +181,7 @@ We have created a selection of examples to help you get started building Plugin.
 * React TypeScript
 * Chakra UI
 * Functional programming style
-* Uses PluginProvider
+* Uses `PluginProvider` context
 * Light and dark modes
 
 <br />
@@ -158,7 +194,7 @@ npx degit pluginio/create-app/examples/loop your-project-name
 
 View the source code on [GitHub](https://github.com/pluginio/create-app/examples/loop) 🔗
 
-Try it live on [Plugin.IO](https://plugin.io/app?id=com.orkoa.loop) 🔗
+Try it live on [Plugin.IO](https://plugin.io/apps/?id=com.orkoa.loop) 🔗
 
 <br />
 
