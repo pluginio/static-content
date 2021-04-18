@@ -69,7 +69,7 @@ You can quickly create a new Plugin.IO application by using the [create-app](htt
 <br />
 
 JavaScript
-```javascript
+```
 npx degit pluginio/create-app/javascript your-project-name
 ```
 
