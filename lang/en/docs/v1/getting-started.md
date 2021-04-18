@@ -140,8 +140,6 @@ We have created a selection of examples to help you get started building Plugin.
 <img alt="Loop App displaying light mode" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/loop_light.png" height="360"> <img alt="Loop App displaying dark mode" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/loop_dark.png" height="360">
 </p>
 
-<br />
-
 ### Features:
 
 * React TypeScript
