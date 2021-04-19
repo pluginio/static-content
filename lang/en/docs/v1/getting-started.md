@@ -212,7 +212,12 @@ Plugin.IO has adopted a Code of Conduct as outlined by [Contributor Covinent v2.
 Read our [contribution guidelines](./contribution-guidelines.md) to learn about our development processes, how to propose bugfixes and improvements, and how to build and test your changes to Plugin.IO.
 
 <br />
+<br />
+<br />
 
-<img alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="50">
+---
+
+<img align="right" alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="50">
 
 Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
