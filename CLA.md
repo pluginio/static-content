@@ -1,6 +1,6 @@
 # Individual Contributor License Agreement
 
-Thank you for your interest in contributing to open source software projects (“Projects”) made available by Plugin.IO Ltd SE or its affiliates (“Plugin.IO Ltd”). This Individual Contributor License Agreement (“Agreement”) sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit or have submitted, in any form and in any manner, to Plugin.IO Ltd in respect of any of the Projects (collectively “Contributions”). If you have any questions respecting this Agreement, please contact opensource@plugin.io.
+Thank you for your interest in contributing to open source software projects (“Projects”) made available by Plugin.IO Ltd or its affiliates (“Plugin.IO Ltd”). This Individual Contributor License Agreement (“Agreement”) sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit or have submitted, in any form and in any manner, to Plugin.IO Ltd in respect of any of the Projects (collectively “Contributions”). If you have any questions respecting this Agreement, please contact opensource@plugin.io.
 
 You agree that the following terms apply to all of your past, present and future Contributions. Except for the licenses granted in this Agreement, you retain all of your right, title and interest in and to your Contributions.
 
@@ -40,7 +40,7 @@ To the fullest extent permitted under applicable law, your Contributions are pro
 
 ## No Obligation
 
-You acknowledge that Plugin.IO Ltd is under no obligation to use or incorporate your Contributions into any of the Projects. The decision to use or incorporate your Contributions into any of the Projects will be made at the sole discretion of Plugin.IO Ltd or its authorized delegates ..
+You acknowledge that Plugin.IO Ltd is under no obligation to use or incorporate your Contributions into any of the Projects. The decision to use or incorporate your Contributions into any of the Projects will be made at the sole discretion of Plugin.IO Ltd or its authorized delegates.
 
 <br />
 
