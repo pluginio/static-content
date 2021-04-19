@@ -13,4 +13,19 @@ author: Gary Paluk
 
 # ✳️ Analytics API
 
+<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23"> 
+
+**WARNING:** Plugin.IO Analytics are currently running in **beta mode** and will only display placeholder data. Metrics will **NOT** register in your developer console.
+
+<br />
+
 Coming soon...
+
+<br />
+<br />
+
+---
+
+<img align="right" alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="50">
+
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
