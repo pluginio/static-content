@@ -173,7 +173,7 @@ We have created some examples to help you get started building Plugin.IO applica
 <br />
 
 <p float="left">
-<img alt="Loop App displaying light mode" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/loop_light.png" height="360"> <img alt="Loop App displaying dark mode" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/loop_dark.png" height="360">
+<img alt="Loop App displaying light mode" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/loop_light.png" height="400"> <img alt="Loop App displaying dark mode" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/loop_dark.png" height="400">
 </p>
 
 ### Features:
@@ -210,3 +210,9 @@ Plugin.IO has adopted a Code of Conduct as outlined by [Contributor Covinent v2.
 ## [Contribution guidelines](./contribution-guidelines.md)
 
 Read our [contribution guidelines](./contribution-guidelines.md) to learn about our development processes, how to propose bugfixes and improvements, and how to build and test your changes to Plugin.IO.
+
+<br />
+
+<img alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="50">
+
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
