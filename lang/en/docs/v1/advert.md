@@ -13,6 +13,13 @@ author: Gary Paluk
 
 # ✳️ Advert API
 
+<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23"> 
+
+**WARNING:** Plugin.IO Ads are currently running in **beta mode** and will only display placeholder adverts. Ads will **NOT**
+generate revenue during this time.
+
+<br />
+
 <b>Plugin.IO Ads</b> help publishers and advertisers to reach their business goals. Use <b>Plugin.IO Ads</b> to 
 generate revenue from your apps and games. All ads are subject to our platform <b>[content guidelines](./content-guidelines)</b>.
 
@@ -31,41 +38,66 @@ generate revenue from your apps and games. All ads are subject to our platform <
 <a name="banner"></a>
 # 🎯 Banner advert 
 
-<!-- ![alt](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/api_advert_banner.gif) -->
-A Banner advert may be displayed at the top or bottom of the screen. You may provide either of the position 
-properties; `BannerPosition.TOP` or `BannerPosition.BOTTOM`. When no value is provided, a banner will be 
+<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
+
+A Banner advert may be displayed at the top or bottom of the screen by specifying either `BannerPosition.TOP` or `BannerPosition.BOTTOM`. When no value is provided, the banner will be 
 displayed at the top of the screen.
 
-If there are no adverts are available when `showBanner` is called, no advert be displayed.
+If no banner adverts are available when `showBanner` is called, the request will be ignored.
 
 <br />
 
 ## Example
 
 ```typescript
-api.advert.showBanner(BannerPosition.Bottom);
+await api.advert.showBanner(BannerPosition.Bottom, (e: MessageEvent) => {
+    console.log("Data: ", e.data);
+});
 ```
 
 ### Parameters
+
+|name       |type                                |required|
+|:----------|:-----------------------------------|:-------|
+|position   |`enum BannerPosition`               |optional|
+|callback   |`function(e: MessageEvent): void`   |optional|
+
 <br />
 
-> <b>position</b> - optional
+### Success response
+```json
+{
+    "data": {
+        "id": "b5072db4-07e1-4885-bd06-311e19a5b09e",
+        "timestamp": ""
+    }
+}
+```
 
-<br />
+### Error response
 
-### Errors
+```json
+{
+    "data": null,
+    "errors": [{
+        "code": "403",
+        "message": "Ads are disabled for this application."
+    }]
+}
+```
 
-If an error occurs during a banner advert request, no information is displayed to the end user.
+**Note:** If an error occurs during a banner advert request, no information is displayed to the user.
+
 
 <br />
 
 <a name="image"></a>
 # 🎯 Image advert
-![Beta feature](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png)
+<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
 
 An Image advert displays a fullscreen advert which contains an image element. Image adverts can be skipped after 5 seconds.
 
-If there are no adverts are available when `showImage` is called, no advert will be displayed.
+If no banner adverts are available when `showImage` is called, the request will be ignored.
 
 <br />
 
@@ -89,6 +121,9 @@ If an error occurs during an image advert request, no information is displayed t
 <a name="carousel"></a>
 # 🎯 Carousel advert
 
+<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
+
+
 ```typescript
 api.advert.showCarousel();
 ```
@@ -98,6 +133,8 @@ api.advert.showCarousel();
 <a name="video"></a>
 # 🎯 Video advert
 
+<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
+
 ```typescript
 api.advert.showVideo();
 ```
@@ -106,6 +143,9 @@ api.advert.showVideo();
 
 <a name="rewarded-video"></a>
 # 🎯 Rewarded video advert
+
+<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
+
 
 ```typescript
 api.advert.showVideoReward("advert-reward-id");
