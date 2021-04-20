@@ -11,4 +11,10 @@ author: Gary Paluk
 
 <br />
 
+```typescript
+await api.advert.showBanner(BannerPosition.Bottom, (e: MessageEvent) => {
+    console.log("Data: ", e.data);
+});
+```
+
 # ✳️ With CRA
