@@ -30,6 +30,7 @@ Our focus at Plugin.IO is to provide great user experiences with simplicity, and
 <br />
 
 <a name="getting-started"></a>
+
 # 🚀 Getting started
 
 * [Installation](#installation) ⚓
@@ -41,6 +42,7 @@ Our focus at Plugin.IO is to provide great user experiences with simplicity, and
 <br />
 
 <a name="installation"></a>
+
 # ✳️ Installation
 
 You can the use the Plugin.IO SDK from a CDN. (Coming soon)
@@ -62,6 +64,7 @@ yarn add @pluginio/sdk
 <br />
 
 <a name="application-templates"></a>
+
 # ✳️ Application templates
 
 You can quickly create a new Plugin.IO application by using the [create-app](https://github.com/pluginio/create-app) monorepo templates. Use the excellent [Degit](https://github.com/Rich-Harris/degit) library to clone the relevant project structure.
@@ -101,6 +104,7 @@ npx degit pluginio/create-app/react-hooks your-project-name
 <br />
 
 <a name="react-provider"></a>
+
 # ✳️ React Provider
 
 If you are using [React](https://github.com/facebook/react) you can add the `PluginProvider` at the root of your application.
@@ -158,6 +162,7 @@ const MyComponent = () => {
 <br />
 
 <a name="examples"></a>
+
 # ✳️ Examples
 
 <br />
@@ -199,6 +204,7 @@ Try it live on [Plugin.IO](https://plugin.io/apps/?id=com.orkoa.loop) 🔗
 <br />
 
 <a name="contributing"></a>
+
 # ✳️ Contributing
 
 ## [Code of conduct](./conduct.md)
