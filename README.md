@@ -103,7 +103,7 @@ Your kind donations help us to engage with dedicated translators, to provide acc
 
 <br />
 
-* Github [Sponsors](https://github.com/sponsors/gpaluk)
+* [Github Sponsors](https://github.com/sponsors/gpaluk)
 * Bitcoin: `3MEufTuKheL6ngUv9qTZeJULcMjFjPYvR9`
 * Ether: `0x865D9dfBa60352Bf0bCEE43A511A68AB2b4e7D1d`
 
