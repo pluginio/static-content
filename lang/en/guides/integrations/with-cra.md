@@ -7,4 +7,8 @@ author: Gary Paluk
 
 <br />
 
+### ⬅️ [Go back to Getting Started](./getting-started.md)
+
+<br />
+
 # ✳️ With CRA
