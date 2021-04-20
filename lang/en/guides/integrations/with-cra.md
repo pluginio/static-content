@@ -21,6 +21,4 @@ await api.advert.showBanner(BannerPosition.Bottom, (e: MessageEvent) => {
 
 <br />
 
-<div style="text-align: right">
-    <img alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="50">
-</div>
+<img alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="50">
