@@ -13,7 +13,7 @@ author: Gary Paluk
 
 # ✳️ Advert API
 
-<Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23px" width="23px" />
+<Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23px" />
 
 **WARNING:** Plugin.IO Ads are currently running in **beta mode** and will only display placeholder adverts. Ads will **NOT**
 generate revenue during this time.
