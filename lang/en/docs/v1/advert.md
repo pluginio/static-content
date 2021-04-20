@@ -20,8 +20,8 @@ generate revenue during this time.
 
 <br />
 
-<b>Plugin.IO Ads</b> help publishers and advertisers to reach their business goals. Use <b>Plugin.IO Ads</b> to 
-generate revenue from your apps and games. All ads are subject to our platform <b>[content guidelines](./content-guidelines)</b>.
+**Plugin.IO Ads** help publishers and advertisers to reach their business goals. Use **Plugin.IO Ads** to 
+generate revenue from your apps and games. All ads are subject to our platform **[content guidelines](./content-guidelines)**.
 
 <br />
 
@@ -36,6 +36,7 @@ generate revenue from your apps and games. All ads are subject to our platform <
 <br />
 
 <a name="banner"></a>
+
 # 🎯 Banner advert 
 
 <Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="25px" />
@@ -92,6 +93,7 @@ await api.advert.showBanner(BannerPosition.Bottom, (e: MessageEvent) => {
 <br />
 
 <a name="image"></a>
+
 # 🎯 Image advert
 <Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="25px" />
 
@@ -119,6 +121,7 @@ If an error occurs during an image advert request, no information is displayed t
 <br />
 
 <a name="carousel"></a>
+
 # 🎯 Carousel advert
 
 <Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="25px" />
@@ -131,6 +134,7 @@ api.advert.showCarousel();
 <br />
 
 <a name="video"></a>
+
 # 🎯 Video advert
 
 <Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="25px" />
@@ -142,6 +146,7 @@ api.advert.showVideo();
 <br />
 
 <a name="rewarded-video"></a>
+
 # 🎯 Rewarded video advert
 
 <Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="25px" />
