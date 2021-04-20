@@ -13,7 +13,7 @@ author: Gary Paluk
 
 # ✳️ Advert API
 
-<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23"> 
+<Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23px" width="23px" />
 
 **WARNING:** Plugin.IO Ads are currently running in **beta mode** and will only display placeholder adverts. Ads will **NOT**
 generate revenue during this time.
@@ -38,7 +38,7 @@ generate revenue from your apps and games. All ads are subject to our platform <
 <a name="banner"></a>
 # 🎯 Banner advert 
 
-<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
+<Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23px" width="23px" />
 
 A Banner advert may be displayed at the top or bottom of the screen by specifying either `BannerPosition.TOP` or `BannerPosition.BOTTOM`. When no value is provided, the banner will be 
 displayed at the top of the screen.
@@ -93,7 +93,7 @@ await api.advert.showBanner(BannerPosition.Bottom, (e: MessageEvent) => {
 
 <a name="image"></a>
 # 🎯 Image advert
-<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
+<Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23px" width="23px" />
 
 An Image advert displays a fullscreen advert which contains an image element. Image adverts can be skipped after 5 seconds.
 
@@ -121,7 +121,7 @@ If an error occurs during an image advert request, no information is displayed t
 <a name="carousel"></a>
 # 🎯 Carousel advert
 
-<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
+<Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23px" width="23px" />
 
 
 ```typescript
@@ -133,7 +133,7 @@ api.advert.showCarousel();
 <a name="video"></a>
 # 🎯 Video advert
 
-<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
+<Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23px" width="23px" />
 
 ```typescript
 api.advert.showVideo();
@@ -144,7 +144,7 @@ api.advert.showVideo();
 <a name="rewarded-video"></a>
 # 🎯 Rewarded video advert
 
-<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23">
+<Image alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23px" width="23px" />
 
 
 ```typescript
