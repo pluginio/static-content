@@ -99,7 +99,7 @@ Special thanks go to our wonderful language contributors.
 
 # 🙏 Support Plugin.IO
 
-Your kind donations help us to engage with dedicated translators and helps to provide accessibility to millions of users around the world.
+Your kind donations allows us to engage with dedicated translators and helps to provide accessibility to millions of users around the world.
 
 <br />
 
