@@ -9,6 +9,8 @@ author: Gary Paluk
 
 ### ⬅️ [Go back to Getting Started](./getting-started.md)
 
+# ✳️ With CRA
+
 <br />
 
 ```typescript
@@ -17,4 +19,5 @@ await api.advert.showBanner(BannerPosition.Bottom, (e: MessageEvent) => {
 });
 ```
 
-# ✳️ With CRA
+<br />
+<img align="right" alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="50">
