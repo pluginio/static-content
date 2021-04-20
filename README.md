@@ -1,18 +1,26 @@
-# [Plugin.IO](https://plugin.io) static-content
+![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
 
-Public static content.
+<br />
 
-# Languages
+# ✳️ [Plugin.IO](https://plugin.io) static-content
 
-### The Plugin.IO content is available in the following languages:
-  
+<br />
+<br />
+
+## 🌐 Language translations
+
+<br />
+
+## 🟢 Active progress
 
 | Language                | Native                | Contribute                                                                |
 | :-----------------------|:----------------------|:--------------------------------------------------------------------------|
 | English                 | English               | [link](https://github.com/pluginio/static-content/tree/main/lang/en)      |
 
+<br />
+<br />
 
-### In progress
+## 🟠 In progress
   
 
 | Language                | Native                | Contribute                                                                |
@@ -34,8 +42,10 @@ Public static content.
 | Swedish                 | Svenska               | [link](https://github.com/pluginio/static-content/tree/main/lang/sv)      |
 | Thai                    | ไทย                   | [link](https://github.com/pluginio/static-content/tree/main/lang/th)      |
 
-### Needs contributors
-  
+<br />
+<br />
+
+## 🔴 Needs contributors
 
 | Language                | Native                | Contribute                                                                |
 | :-----------------------|:----------------------|:--------------------------------------------------------------------------|
@@ -71,21 +81,43 @@ Public static content.
 | Urdu                    | اردو                  | [link](https://github.com/pluginio/static-content/tree/main/lang/ur)      |
 | Uzbek                   | Oʻzbekcha             | [link](https://github.com/pluginio/static-content/tree/main/lang/uz)      |
 | Vietnamese              | Tiếng Việt            | [link](https://github.com/pluginio/static-content/tree/main/lang/vi)      |
-  
 
-## Contributors ✨
+<br />
+<br />
+
+## ✨ Contributors ✨
 ---
 
-Thanks goes to these wonderful people:
+<br />
+
+Special thanks go to our wonderful language contributors.
 
 <a href="https://github.com/pluginio/static-content/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pluginio/static-content" />
 </a>
+  
+<br />
+<br />
 
-Made with [contributors-img](https://contrib.rocks).  
-  
-  
-## Licence
+## 🙏 Support Plugin.IO
 ---
 
-static-content is [MIT licensed](https://github.com/pluginio/static-content/blob/main/LICENSE)
+Your kind donations help us to engage with dedicated translators, to provide accessibility to millions of people around the world.
+
+<br />
+
+* Github [Sponsors](https://github.com/sponsors/gpaluk)
+* Bitcoin: `3MEufTuKheL6ngUv9qTZeJULcMjFjPYvR9`
+* Ether: `0x865D9dfBa60352Bf0bCEE43A511A68AB2b4e7D1d`
+
+<br />
+
+Thank you!
+
+<br />
+
+---
+
+<img align="right" alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="50">
+
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
