@@ -85,10 +85,8 @@
 <br />
 <br />
 
-## ✨ Contributors ✨
----
+# ✨ Contributors ✨
 
-<br />
 
 Special thanks go to our wonderful language contributors.
 
@@ -99,8 +97,7 @@ Special thanks go to our wonderful language contributors.
 <br />
 <br />
 
-## 🙏 Support Plugin.IO
----
+# 🙏 Support Plugin.IO
 
 Your kind donations help us to engage with dedicated translators, to provide accessibility to millions of people around the world.
 
