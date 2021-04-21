@@ -177,9 +177,9 @@ We have created some examples to help you get started building Plugin.IO applica
 
 <br />
 
-<p float="left">
+<div float="left">
 <Image alt="Loop App displaying light mode" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/loop_light.png" height="400px" /> <Image alt="Loop App displaying dark mode" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/loop_dark.png" height="400px" />
-</p>
+</div>
 
 ### Features:
 
