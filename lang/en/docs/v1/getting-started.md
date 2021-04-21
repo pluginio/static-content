@@ -223,6 +223,6 @@ Read our [contribution guidelines](./contribution-guidelines.md) to learn about 
 ---
 Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
 
-<p style="text-align:right;">
-<Image style="float:right" alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="75px" width="75px" />
-</p>
+<div style="text-align:right;">
+<Image alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="75px" width="75px" />
+</div>
