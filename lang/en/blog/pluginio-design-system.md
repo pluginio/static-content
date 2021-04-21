@@ -11,7 +11,7 @@ og_image: test
 og_url: test
 fb_app_id: 523943968175208
 twitter_card: test
-twitter_site: \@pluginio
+twitter_site: "@pluginio"
 twitter_site_id: 216319337
 twitter_title: test
 twitter_description: test
