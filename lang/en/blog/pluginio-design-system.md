@@ -4,8 +4,8 @@ author: Gary Paluk
 description: test
 keywords: test
 og-type: article
-og-title:  test
-og-description:  test
+og-title: test
+og-description: test
 og-image: test
 og-url: test
 twitter-card: test
