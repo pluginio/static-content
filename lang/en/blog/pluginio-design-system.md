@@ -9,7 +9,7 @@ og-description:  test
 og-image: test
 og-url: test
 twitter-card: test
-twitter-site: @pluginio
+twitter-site: pluginio
 twitter-account_id: 216319337
 twitter-title: test
 twitter-description: test
