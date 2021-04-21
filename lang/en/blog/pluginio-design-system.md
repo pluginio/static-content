@@ -1,3 +1,3 @@
 ---
-title: Test
+title: Plugin.IO Design System
 ---
