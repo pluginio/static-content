@@ -61,15 +61,15 @@ With any form of design communication, there must be a formal protocol, a design
 
 ### **Adaptability**
 
-Design is ever-changing! If a design system cannot evolve then it will undoubtedly lose relevance. The ability to quickly iterate is considered critical a Plugin.IO. We focused our efforts on ensuring that components are able to adapt easily, from low level modular changes through to global themes that can adapt according to operating system settings.
+Design is ever-changing! If a design system cannot evolve then it will undoubtedly lose relevance. The ability to quickly iterate is considered critical. We focused our efforts on ensuring that components are able to adapt easily, from low level modular changes through to global themes that can adapt according to operating system settings.
 
-Making changes should be quick, simple and never bogged down in technical details. To achieve this, we carefully considered foundational libraries that are deeply routed in modularity, accessibility, proven declarative APIs, industry best practices and reducing configuration overhead.
+Changes should be quick, simple and not hampered by technical requirements. To achieve this, we carefully considered foundational libraries that are deeply routed in modularity, accessibility, proven declarative APIs, industry best practices and reduced configuration overhead.
 
 <br />
 
 ### **Intent**
 
-When a user interacts with a system, that system must act to understand user intent:
+When a user interacts with a system, that system must act to understand the users intentions:
 
 - Allow mistakes without negative consequence.
 - Help intuit actions.
@@ -84,7 +84,7 @@ When a user interacts with a system, that system must act to understand user int
 
 ### **Re-usability**
 
-By using discrete elements, our goal is to maximize re-usability by generalizing modular blocks. These blocks are further composed into reusable components, pages and templates. Plugin.IO is fully cross-platform, meaning that these components must work seamlessly across; mobile, desktop, Smart TV, kiosks, game consoles and tablet etc. We want to ensure consistency by reusing the same components across all devices and had to design these accordingly.
+By using discrete elements, our goal was to maximize re-usability by generalizing modular blocks. These blocks are further composed into reusable components, pages and templates. Our services are fully cross-platform, which means that components must work seamlessly across; mobile, desktop, Smart TV, kiosks, game consoles and tablet. We want to ensure consistency whilst reducing technical debt by reusing components across all devices types.
 
 <br />
 
