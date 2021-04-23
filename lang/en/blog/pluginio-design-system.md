@@ -78,7 +78,7 @@ When a user interacts with a system, that system aught to guide user intention:
     - Animation
     - Haptics
     - Color
-- Industry leading accessibility with inclusive posture.
+- Provide industry leading accessibility and inclusive posture.
 
 <br />
 
