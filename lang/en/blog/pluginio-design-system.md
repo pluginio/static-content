@@ -78,13 +78,13 @@ When a user interacts with a system, that system aught to guide user intention:
     - Animation
     - Haptics
     - Color
-- Accessibility with an industry leading and inclusive posture.
+- Industry leading accessibility with inclusive posture.
 
 <br />
 
 ### **Re-usability**
 
-By using discrete elements, our goal was to maximize re-usability of modular blocks. These blocks are further composed into reusable components, pages and templates. Our services are fully cross-platform, which means that components must work seamlessly across; mobile, desktop, Smart TV, kiosks, game consoles and tablets. AIR components are also designed to be multi-lingual, including full support RTL language support.
+By using discrete elements, our goal was to maximize re-usability of modular blocks. These blocks are further composed into reusable components, pages and templates. Our services are fully cross-platform, which means that components must work seamlessly across; mobile, desktop, Smart TV, kiosks, game consoles and tablets. AIR components are also designed to be multi-lingual, including full RTL language support.
 
 <br />
 
