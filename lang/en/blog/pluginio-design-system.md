@@ -90,7 +90,7 @@ By using discrete elements, our goal was to maximize re-usability of modular blo
 
 # 🎯 Get started with AIR
 
-We have made the bold decision to make our design system free and open-source under the MIT license. Early adopters can start using the AIR design system in their personal projects and/or Plugin.IO apps today. Get started today at: [https://air.plugin.io](https://air.plugin.io)
+We have made the bold decision to make our design system free and open-source under the MIT license. Early adopters can start using the AIR design system in their personal projects and/or Plugin.IO Apps. Get started today at: [https://air.plugin.io](https://air.plugin.io)
 
 <br />
 
