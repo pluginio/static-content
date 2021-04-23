@@ -51,7 +51,7 @@ Powerful computers are now commonplace. We find them in our workplaces, our home
 
 # 🎯 Design language
 
-With any form of design communication, there must be a formal protocol, a design language. Any language that aims to lead in a given field must be able to evolve with a changing ecosystem. During our initial research, we defined the problem space into three key areas which became known internally as AIR:
+With any form of design communication, there must be a formal protocol, a design language. Any language that aims to lead a given field must be able to evolve within a changing ecosystem. We built up our research and language upon a foundational model known as [Fit, Form, Function](https://www.technia.co.uk/blog/evaluating-the-change-form-fit-and-function-fff/) and then defined the problem space into three key areas which became known internally as AIR:
 
 - Adaptability
 - Intent
@@ -61,15 +61,15 @@ With any form of design communication, there must be a formal protocol, a design
 
 ### **Adaptability**
 
-Design is ever-changing! If a design system cannot evolve then it will undoubtedly lose relevance. The ability to quickly iterate is considered critical. We focused our efforts on ensuring that components are able to adapt easily, from low level modular changes through to global themes that can adapt according to operating system settings.
+Design is ever-changing! If a design system cannot evolve then it will undoubtedly lose relevance. The ability to quickly iterate is considered critical. We wanted to ensure that components are easy to adapt, from low level modular changes through to global themes that can adapt according to operating system settings.
 
-Changes should be quick, simple and not hampered by technical requirements. To achieve this, we carefully considered foundational libraries that are deeply routed in modularity, accessibility, proven declarative APIs, industry best practices and reduced configuration overhead.
+Changes should be quick, simple and never hampered by underlying technical requirements. To achieve this, we carefully considered foundational libraries that are mindful of low level accessibility, separation of interests, proven declarative APIs, industry standard best practices and reduced configuration overhead.
 
 <br />
 
 ### **Intent**
 
-When a user interacts with a system, that system must act to understand the users intentions:
+When a user interacts with a system, that system aught to guide user intention:
 
 - Allow mistakes without negative consequence.
 - Help intuit actions.
@@ -78,19 +78,19 @@ When a user interacts with a system, that system must act to understand the user
     - Animation
     - Haptics
     - Color
-- Provide accessibility with an industry leading inclusive posture.
+- Accessibility with an industry leading and inclusive posture.
 
 <br />
 
 ### **Re-usability**
 
-By using discrete elements, our goal was to maximize re-usability by generalizing modular blocks. These blocks are further composed into reusable components, pages and templates. Our services are fully cross-platform, which means that components must work seamlessly across; mobile, desktop, Smart TV, kiosks, game consoles and tablet. We want to ensure consistency whilst reducing technical debt by reusing components across all devices types.
+By using discrete elements, our goal was to maximize re-usability of modular blocks. These blocks are further composed into reusable components, pages and templates. Our services are fully cross-platform, which means that components must work seamlessly across; mobile, desktop, Smart TV, kiosks, game consoles and tablets. AIR components are also designed to be multi-lingual, including full support RTL language support.
 
 <br />
 
-# 🎯 Documentation
+# 🎯 Get started with AIR
 
-Early adopters can start using the AIR design system for their personal projects and Plugin.IO apps today. You can find documentation over at: [https://air.plugin.io](https://air.plugin.io)
+We have made the bold decision to make our design system free and open-source under the MIT lisense. Early adopters can start using the AIR design system in their personal projects and/or Plugin.IO apps today. You can find more information at: [https://air.plugin.io](https://air.plugin.io)
 
 <br />
 
