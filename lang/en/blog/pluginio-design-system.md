@@ -61,9 +61,9 @@ With any form of design communication, there must be a formal protocol, a design
 
 ### **Adaptability**
 
-Design is ever-changing! If a design system cannot evolve then it will undoubtedly lose relevance. The ability to quickly iterate is considered critical. We wanted to ensure that components are easy to adapt, from low level modular changes through to global themes that can adapt according to operating system settings.
+Design is ever-changing! If a design system cannot evolve then it will undoubtedly lose relevance. The ability to quickly iterate is considered critical at Plugin.IO.
 
-Changes should be quick, simple and never hampered by underlying technical requirements. To achieve this, we carefully considered foundational libraries that are mindful of low level accessibility, separation of interests, proven declarative APIs, industry standard best practices and reduced configuration overhead.
+Changes should never hampered by underlying technical requirements. To achieve this, we carefully considered foundational libraries that are mindful of low level accessibility, separation of interests, proven declarative APIs, industry standard best practices and reduced configuration overhead.
 
 <br />
 
@@ -90,7 +90,7 @@ By using discrete elements, our goal was to maximize re-usability of modular blo
 
 # 🎯 Get started with AIR
 
-We have made the bold decision to make our design system free and open-source under the MIT license. Early adopters can start using the AIR design system in their personal projects and/or Plugin.IO Apps. Get started today at: [https://air.plugin.io](https://air.plugin.io)
+We have made the bold decision to make the AIR design system free and open-source under the MIT license. Early adopters can start using the AIR design system in their personal projects and/or Plugin.IO Apps. Get started today at: [https://air.plugin.io](https://air.plugin.io)
 
 <br />
 
