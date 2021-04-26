@@ -63,7 +63,7 @@ With any form of design communication, there must be a formal protocol, a design
 
 Design is ever-changing! If a design system cannot evolve then it will undoubtedly lose relevance. The ability to quickly iterate is considered critical at Plugin.IO.
 
-Changes should never hampered by underlying technical requirements. To achieve this, we carefully considered foundational libraries that are mindful of low level accessibility, separation of interests, proven declarative APIs, industry standard best practices and reduced configuration overhead.
+Changes should never be hampered by underlying technical requirements. To achieve this, we carefully considered foundational libraries that are mindful of low level accessibility, separation of interests, proven declarative APIs, industry standard best practices and reduced configuration overhead.
 
 <br />
 
@@ -84,7 +84,7 @@ When a user interacts with a system, that system aught to guide user intention:
 
 ### **Re-usability**
 
-By using discrete elements, our goal was to maximize re-usability of modular blocks. These blocks are further composed into reusable components, pages and templates. Our services are fully cross-platform, which means that components must work seamlessly across; mobile, desktop, Smart TV, kiosks, game consoles and tablets. AIR components are also designed to be multi-lingual, including full RTL language support.
+It is important that we remain efficient by maximizing the re-usability of modular blocks. By using discrete elements, elements are composed into blocks which are then composed into reusable components, pages and templates. Our services are fully cross-platform, which means that components must work seamlessly across; mobile, desktop, Smart TV, kiosks, game consoles and tablets. AIR components are also designed to be multi-lingual, including full RTL language support.
 
 <br />
 
