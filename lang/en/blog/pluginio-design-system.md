@@ -96,7 +96,7 @@ We have made the bold decision to make the AIR design system free and open-sourc
 
 # 🎯 Libraries and frameworks
 
-We would like to thank the creators of tools and libraries that we have used and/or extended:
+We would like to thank the creators of tools and libraries that we have used and/or extended during the development of the AIR design system:
 
 - [Figma](https://figma.com/)
 - [Styled System](https://styled-system.com)
