@@ -1,3 +1,117 @@
 {
-    "Hello": "Hello"
+    "hero.video.alt": "Introducing Plugin.IO",
+    "hero.signup": "Sign up and Buy",
+    "hero.whitepaper": "Whitepaper",
+
+    "social.facebook.alt": "Facebook social",
+    "social.twitter.alt": "Twitter social",
+    "social.reddit.alt": "Reddit social",
+    "social.twitch.alt": "Twitch social",
+    "social.slack.alt": "Slack social",
+    "social.discord.alt": "Discord social",
+
+    "learn-more": "LEARN MORE",
+    "learn-more.alt": "Learn more",
+
+    "graph.bitcoin.title": "Bitcoin",
+    "graph.bitcoin.market-cap": "Market cap",
+    "graph.bitcoin.price-percent": "Price + 24h %",
+
+    "graph.ethereum.title": "Ethereum",
+    "graph.ethereum.market-cap": "Market cap",
+    "graph.ethereum.price-percent": "Price + 24h %",
+
+    "graph.tether.title": "Tether",
+    "graph.tether.market-cap": "Market cap",
+    "graph.tether.price-percent": "Price + 24h %",
+
+    "graph.cardano.title": "Cardano",
+    "graph.cardano.market-cap": "Market cap",
+    "graph.cardano.price-percent": "Price + 24h %",
+
+    "counter.title.neko": "NEKO",
+    "counter.title.token-presale": "token presale",
+    "counter.date.days": "Days",
+    "counter.date.hours": "Hours",
+    "counter.date.minutes": "Minutes",
+    "counter.date.seconds": "Seconds",
+    "counter.availability": "AVAILABILITY",
+    "counter.signup": "Sign up and Buy",
+
+    "tech.linux-foundation.alt": "Linux foundation",
+    "tech.elastic.alt": "Elastic",
+    "tech.apache.alt": "Apache",
+    "tech.neo4j.alt": "Neo4J",
+    "tech.redis.alt": "Redis",
+    "tech.apollo.alt": "Apollo",
+    "tech.docker.alt": "Docker, Inc",
+    "tech.react.alt": "React",
+    "tech.graphql.alt": "GraphQL",
+    "tech.kubernetes.alt": "Kubernetes",
+    "tech.vercel.alt": "Vercel",
+
+    "carousel.title.monetize": "Make money from your social content",
+    "carousel.alt1": "",
+    "carousel.alt2": "",
+    "carousel.alt3": "",
+    "carousel.alt4": "",
+    "carousel.alt5": "",
+    "carousel.alt6": "",
+
+    "token-graph.distribution.title": "Token distribution",
+
+    "token-graph.distribution.token-distribution": "Token distribution ???",
+    "token-graph.distribution.advisors": "Advisors and partners",
+    "token-graph.distribution.company": "Company ???",
+    "token-graph.distribution.bounty": "Bounty",
+    "token-graph.distribution.team": "Team",
+
+    "token-graph.allocation.title": "Allocation of funds",
+
+    "token-graph.allocation.marketing-sales": "Marketing & Sales",
+    "token-graph.allocation.product-development": "Product development",
+    "token-graph.allocation.legal": "Legal",
+    "token-graph.allocation.admin": "Admin ???",
+    "token-graph.allocation.operational-expenses": "Operational expenses ???",
+
+    "slider.block1.title": "",
+    "slider.block1.body": "",
+    "slider.block1.alt": "",
+
+    "slider.block2.title": "",
+    "slider.block2.body": "",
+    "slider.block2.alt": "",
+
+    "slider.block3.title": "",
+    "slider.block3.body": "",
+    "slider.block3.signup": "Sign up and Buy",
+    "slider.block3.alt": "",
+
+    "developers.header": "Developers",
+    "developers.title": "",
+    "developers.body": "",
+    "developers.learn-more": "Learn more",
+    "developers.alt": "",
+
+    "footer.learn-more.title": "LEARN MORE",
+    "footer.learn-more.about": "About",
+    "footer.learn-more.developers": "Developers",
+    "footer.learn-more.documentation": "Documentation",
+
+    "footer.get-involved.title": "GET INVOLVED",
+    "footer.get-involved.github": "GitHub",
+    "footer.get-involved.were-hiring": "We're Hiring",
+    "footer.get-involved.press-kit": "Press Kit",
+
+    "footer.connect.title": "CONNECT",
+    "footer.connect.faq": "FAQs",
+    "footer.connect.support": "Support",
+    "footer.connect.blog": "Blog",
+
+    "footer.legal.title": "LEGAL",
+    "footer.legal.privacy-policy": "Privacy Policy",
+    "footer.legal.terms-of-use": "Terms of Use",
+    "footer.legal.cla": "Contributor License Agreement",
+
+    "footer.copyright": "©{{year}} Plugin.IO Ltd."
 }
