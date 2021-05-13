@@ -59,42 +59,41 @@
     "carousel.alt6": "",
 
     "token-graph.distribution.title": "Token distribution",
-
-    "token-graph.distribution.token-distribution": "Token distribution ???",
-    "token-graph.distribution.advisors": "Advisors and partners",
-    "token-graph.distribution.company": "Company ???",
-    "token-graph.distribution.bounty": "Bounty",
+    "token-graph.distribution.advisors": "Advisors",
+    "token-graph.distribution.accredited-sale": "Accredited sale",
+    "token-graph.distribution.user": "User Sale",
+    "token-graph.distribution.developers": "Developer rewards",
+    "token-graph.distribution.bounties": "Bounties",
     "token-graph.distribution.team": "Team",
 
     "token-graph.allocation.title": "Allocation of funds",
-
     "token-graph.allocation.marketing-sales": "Marketing & Sales",
     "token-graph.allocation.product-development": "Product development",
     "token-graph.allocation.legal": "Legal",
-    "token-graph.allocation.admin": "Admin ???",
-    "token-graph.allocation.operational-expenses": "Operational expenses ???",
+    "token-graph.allocation.admin": "Admin",
+    "token-graph.allocation.operations": "Operations",
 
     "slider.block1.title": "No more freebies!",
-    "slider.block1.body": "Sign up and get paid for your social images and videos with NFTs.",
-    "slider.block1.alt": "",
+    "slider.block1.body": "Get paid for your social images and videos using NFTs.",
+    "slider.block1.alt": "A mobile phone that displays three hearts",
     "slider.block1.signup": "Sign up and Buy",
     "slider.block1.learn-more": "Learn more",
 
     "slider.block2.title": "Publishers",
     "slider.block2.body": "Maximize revenue and customize Apps directly within your website.",
-    "slider.block2.alt": "",
+    "slider.block2.alt": "A futuristic holographic website",
     "slider.block2.signup": "Sign up and Buy",
     "slider.block2.learn-more": "Learn more",
 
     "slider.block3.title": "The Future of Apps",
     "slider.block3.body": "Take your content anywhere with Apps that work across your devices.",
-    "slider.block3.alt": "",
+    "slider.block3.alt": "A factory surrounded by modern devices and light",
     "slider.block3.signup": "Sign up and Buy",
     "slider.block3.learn-more": "Learn more",
 
     "slider.block4.title": "Developer SDK",
     "slider.block4.body": "Apply for early access to the Plugin.IO SDK as part of our partner program.",
-    "slider.block4.alt": "",
+    "slider.block4.alt": "A server rock with a holographic padlock",
     "slider.block4.signup": "Sign up and Buy",
     "slider.block4.learn-more": "Learn more",
 
@@ -118,5 +117,5 @@
     "footer.legal.terms-of-use": "Terms of Use",
     "footer.legal.cla": "Contributor License Agreement",
 
-    "footer.copyright": "©{{year}} Plugin.IO Ltd."
+    "footer.copyright": "©{{year}} Built with ❤️ by Team Plugin.IO 🚀"
 }
