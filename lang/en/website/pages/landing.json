@@ -5,6 +5,7 @@
 
     "social.facebook.alt": "Facebook social",
     "social.twitter.alt": "Twitter social",
+    "social.github.alt": "Github social",
     "social.reddit.alt": "Reddit social",
     "social.twitch.alt": "Twitch social",
     "social.slack.alt": "Slack social",
@@ -21,13 +22,13 @@
     "graph.ethereum.market-cap": "Market cap",
     "graph.ethereum.price-percent": "Price + 24h %",
 
-    "graph.tether.title": "Tether",
-    "graph.tether.market-cap": "Market cap",
-    "graph.tether.price-percent": "Price + 24h %",
+    "graph.litecoin.title": "Litecoin",
+    "graph.litecoin.market-cap": "Market cap",
+    "graph.litecoin.price-percent": "Price + 24h %",
 
-    "graph.cardano.title": "Cardano",
-    "graph.cardano.market-cap": "Market cap",
-    "graph.cardano.price-percent": "Price + 24h %",
+    "graph.steller.title": "Steller",
+    "graph.steller.market-cap": "Market cap",
+    "graph.steller.price-percent": "Price + 24h %",
 
     "counter.title.neko": "NEKO",
     "counter.title.token-presale": "token presale",
