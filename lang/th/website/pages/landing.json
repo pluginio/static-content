@@ -1,0 +1,122 @@
+{
+    "hero.video.alt": "บทนำ Plugin.IO",
+    "hero.signup": "ลงทะเบียนและซื้อ",
+    "hero.whitepaper": "Whitepaper",
+
+    "social.facebook.alt": "Facebook โซเชี่ยนเน็ตเวิร์ค",
+    "social.twitter.alt": "Twitter โซเชี่ยนเน็ตเวิร์ค",
+    "social.github.alt": "Github โซเชี่ยนเน็ตเวิร์ค",
+    "social.reddit.alt": "Reddit โซเชี่ยนเน็ตเวิร์ค",
+    "social.twitch.alt": "Twitch โซเชี่ยนเน็ตเวิร์ค",
+    "social.slack.alt": "Slack โซเชี่ยนเน็ตเวิร์ค",
+    "social.discord.alt": "Discord โซเชี่ยนเน็ตเวิร์ค",
+
+    "learn-more": "เรียนรู้เพิ่มเติม",
+    "learn-more.alt": "เรียนรู้เพิ่มเติม",
+
+    "graph.bitcoin.title": "Bitcoin",
+    "graph.bitcoin.market-cap": "มูลค่าตลาด",
+    "graph.bitcoin.price-percent": "ราคา + 24ชม. %",
+
+    "graph.ethereum.title": "Ethereum",
+    "graph.ethereum.market-cap": "มูลค่าตลาด",
+    "graph.ethereum.price-percent": "ราคา + 24ชม. %",
+
+    "graph.litecoin.title": "Litecoin",
+    "graph.litecoin.market-cap": "มูลค่าตลาด",
+    "graph.litecoin.price-percent": "ราคา + 24ชม. %",
+
+    "graph.steller.title": "Steller",
+    "graph.steller.market-cap": "มูลค่าตลาด",
+    "graph.steller.price-percent": "ราคา + 24ชม. %",
+
+    "counter.title.neko": "NEKO",
+    "counter.title.token-presale": "token ขายล่วงหน้า",
+    "counter.date.days": "วัน",
+    "counter.date.hours": "ชั่วโมง",
+    "counter.date.minutes": "นาที",
+    "counter.date.seconds": "วินาที",
+    "counter.availability": "ความพร้อมใช้งาน",
+    "counter.signup": "ลงทะเบียนและซื้อ",
+
+    "tech.linux-foundation.alt": "Linux foundation",
+    "tech.elastic.alt": "Elastic",
+    "tech.apache.alt": "Apache",
+    "tech.neo4j.alt": "Neo4J",
+    "tech.redis.alt": "Redis",
+    "tech.apollo.alt": "Apollo",
+    "tech.docker.alt": "Docker, Inc",
+    "tech.react.alt": "React",
+    "tech.graphql.alt": "GraphQL",
+    "tech.kubernetes.alt": "Kubernetes",
+    "tech.vercel.alt": "Vercel",
+
+    "carousel.title.monetize": "รับเงินจากเนื้อหาโซเชียลของคุณ",
+    "carousel.alt1": "",
+    "carousel.alt2": "",
+    "carousel.alt3": "",
+    "carousel.alt4": "",
+    "carousel.alt5": "",
+    "carousel.alt6": "",
+
+    "token-graph.distribution.title": "Token การกระจาย",
+    "token-graph.distribution.advisors": "ที่ปรึกษา",
+    "token-graph.distribution.accredited-sale": "การขายที่ได้รับการรับรอง",
+    "token-graph.distribution.user": "ผู้ใช้ sale",
+    "token-graph.distribution.developers": "รางวัลนักพัฒนา",
+    "token-graph.distribution.bounties": "ค่าหัว",
+    "token-graph.distribution.team": "ทีม",
+
+    "token-graph.allocation.title": "การจัดสรรเงิน",
+    "token-graph.allocation.marketing-sales": "การตลาดและการขาย",
+    "token-graph.allocation.product-development": "การพัฒนาผลิตภัณฑ์",
+    "token-graph.allocation.legal": "ถูกกฎหมาย",
+    "token-graph.allocation.admin": "แอดมิน",
+    "token-graph.allocation.operations": "การดำเนินงาน",
+
+    "slider.block1.title": "ไม่มีฟรีอีกแล้ว!",
+    "slider.block1.body": "รับเงินสำหรับรูปภาพและวิดีโอโซเชียลของคุณโดยใช้ NFT",
+    "slider.block1.alt": "โทรศัพท์มือถือที่แสดงหัวใจสามดวง",
+    "slider.block1.signup": "ลงทะเบียนและซื้อ",
+    "slider.block1.learn-more": "เรียนรู้เพิ่มเติม",
+
+    "slider.block2.title": "ผู้เผยแพร่",
+    "slider.block2.body": "เพิ่มรายได้สูงสุดและปรับแต่งแอพโดยตรงภายในเว็บไซต์ของคุณ",
+    "slider.block2.alt": "เว็บไซต์โฮโลแกรมแห่งอนาคต",
+    "slider.block2.signup": "ลงทะเบียนและซื้อ",
+    "slider.block2.learn-more": "เรียนรู้เพิ่มเติม",
+
+    "slider.block3.title": "อนาคตของแอพ",
+    "slider.block3.body": "นำเนื้อหาของคุณไปได้ทุกที่ด้วยแอพที่ทำงานบนอุปกรณ์ของคุณ",
+    "slider.block3.alt": "โรงงานที่รายล้อมไปด้วยอุปกรณ์ที่ทันสมัยและแสงไฟ",
+    "slider.block3.signup": "ลงทะเบียนและซื้อ",
+    "slider.block3.learn-more": "เรียนรู้เพิ่มเติม",
+
+    "slider.block4.title": "นักพัฒนา SDK",
+    "slider.block4.body": "สมัครทดลองใช้ Plugin.IO SDK ก่อนเปิดตัวซึ่งเป็นส่วนหนึ่งของโปรแกรมพันธมิตรของเรา",
+    "slider.block4.alt": "ชั้นวางเซิร์ฟเวอร์ที่มีแม่กุญแจโฮโลแกรม",
+    "slider.block4.signup": "ลงทะเบียนและซื้อ",
+    "slider.block4.learn-more": "เรียนรู้เพิ่มเติม",
+
+    "footer.learn-more.title": "เรียนรู้เพิ่มเติม",
+    "footer.learn-more.about": "เกี่ยวกับ",
+    "footer.learn-more.developers": "นักพัฒนา",
+    "footer.learn-more.documentation": "เอกสารประกอบ",
+
+    "footer.get-involved.title": "มีส่วนร่วมกับ",
+    "footer.get-involved.github": "GitHub",
+    "footer.get-involved.were-hiring": "เรากำลังจ้างงาน",
+    "footer.get-involved.press-kit": "Press Kit",
+
+    "footer.connect.title": "เชื่อมต่อ",
+    "footer.connect.faq": "คำถามที่พบบ่อย",
+    "footer.connect.support": "สนับสนุน",
+    "footer.connect.blog": "Blog",
+
+    "footer.legal.title": "ถูกกฎหมาย",
+    "footer.legal.privacy-policy": "นโยบายความเป็นส่วนตัว",
+    "footer.legal.terms-of-use": "ข้อกำหนดการใช้งาน",
+    "footer.legal.cla": "ข้อตกลงผู้ร่วมให้ข้อมูล (CLA)",
+
+    "footer.copyright": "©{{year}} สร้างขึ้นด้วย ❤️ โดย ทีม Plugin.IO 🚀"
+}
