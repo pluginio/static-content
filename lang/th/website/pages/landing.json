@@ -59,7 +59,7 @@
     "carousel.alt5": "",
     "carousel.alt6": "",
 
-    "token-graph.distribution.title": "Token การกระจาย",
+    "token-graph.distribution.title": "การกระจาย Token",
     "token-graph.distribution.advisors": "ที่ปรึกษา",
     "token-graph.distribution.accredited-sale": "การขายที่ได้รับการรับรอง",
     "token-graph.distribution.user": "ผู้ใช้ sale",
@@ -118,5 +118,5 @@
     "footer.legal.terms-of-use": "ข้อกำหนดการใช้งาน",
     "footer.legal.cla": "ข้อตกลงผู้ร่วมให้ข้อมูล (CLA)",
 
-    "footer.copyright": "©{{year}} สร้างขึ้นด้วย ❤️ โดย ทีม Plugin.IO 🚀"
+    "footer.copyright": "©{{year}} สร้างขึ้น ❤️ โดย ทีม Plugin.IO 🚀"
 }
