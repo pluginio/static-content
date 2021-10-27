@@ -30,6 +30,7 @@
 | Chinese (Traditional)   | 繁體中文               | [link](https://github.com/pluginio/static-content/tree/main/lang/zh-hant) |
 | Finnish                 | suomen kieli          | [link](https://github.com/pluginio/static-content/tree/main/lang/fi)      |
 | French                  | Français              | [link](https://github.com/pluginio/static-content/tree/main/lang/fr)      |
+| Hindi                   | हिन्दी                   | [link](https://github.com/pluginio/static-content/tree/main/lang/hi)      |
 | Indonesian              | Bahasa Indonesia      | [link](https://github.com/pluginio/static-content/tree/main/lang/id)      |
 | Italian                 | Italiano              | [link](https://github.com/pluginio/static-content/tree/main/lang/it)      |
 | Japanese                | 日本語                 | [link](https://github.com/pluginio/static-content/tree/main/lang/ja)      |
@@ -60,7 +61,6 @@
 | Greek                   | Ελληνικά              | [link](https://github.com/pluginio/static-content/tree/main/lang/el)      |
 | Gujarati                | ગુજરાતી                 | [link](https://github.com/pluginio/static-content/tree/main/lang/gu)      |
 | Hebrew                  | עברית                 | [link](https://github.com/pluginio/static-content/tree/main/lang/he)      |
-| Hindi                   | हिन्दी                   | [link](https://github.com/pluginio/static-content/tree/main/lang/hi)      |
 | Haitian Creole          | Kreyòl ayisyen        | [link](https://github.com/pluginio/static-content/tree/main/lang/ht)      |
 | Hungarian               | magyar                | [link](https://github.com/pluginio/static-content/tree/main/lang/hu)      |
 | Kannada                 | ಕನ್ನಡ                  | [link](https://github.com/pluginio/static-content/tree/main/lang/kn)      |
