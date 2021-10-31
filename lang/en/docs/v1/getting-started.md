@@ -72,28 +72,28 @@ You can quickly create a new Plugin.IO application by using the [create-app](htt
 <br />
 
 JavaScript
-```
+```bash
 npx degit pluginio/create-app/javascript your-project-name
 ```
 
 <br />
 
 TypeScript
-```
+```bash
 npx degit pluginio/create-app/typescript your-project-name
 ```
 
 <br />
 
 React
-```
+```bash
 npx degit pluginio/create-app/react your-project-name
 ```
 
 <br />
 
 React hooks
-```
+```bash
 npx degit pluginio/create-app/react-hooks your-project-name
 ```
 
@@ -193,7 +193,7 @@ We have created some examples to help you get started building Plugin.IO applica
 
 Clone this App using: 
 
-```
+```bash
 npx degit pluginio/create-app/examples/loop your-project-name
 ```
 
