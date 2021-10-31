@@ -51,13 +51,13 @@ or as an `npm` package.
 
 Inside your project directory, install the Plugin.IO SDK by running either of the following commands:
 
-```
+```bash
 npm i @pluginio/sdk
 ```
 
 <br />
 
-```
+```bash
 yarn add @pluginio/sdk
 ```
 
