@@ -2,6 +2,6 @@
 
 <br />
 
-<h1>Blogs</h1>
+<h1>Advertiser blog</h1>
 
 <h4>Coming soon...</h4>
