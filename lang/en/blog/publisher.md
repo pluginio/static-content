@@ -4,4 +4,4 @@
 
 <h1>Publisher blog</h1>
 
-<h3>Coming soon...</h3>
+<h4>Coming soon...</h4>
