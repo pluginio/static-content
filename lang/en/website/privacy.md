@@ -85,6 +85,7 @@ Plugin.IO believe that you should always know what data we collect and that you 
 <br />
 
 <a name="basic-information"></a>
+
 ## Basic Account Information
 
 To use some Plugin.IO service, it's not necessary to create an account. Services such as searching and viewing public content are available to everyone. If you choose to create a Plugin.IO account, you must provide us some personal data so that we can provide you with our services. You must provide a username, for example **@pluginio**, a password and an email address and phone number for 2FA. Your username is always public, and Plugin.IO suggest that you use a pseudonym rather than your real name. You can create and manage multiple Plugin.IO accounts, for example to manage different sales channels.
