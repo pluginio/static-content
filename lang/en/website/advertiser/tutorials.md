@@ -1,9 +1,11 @@
 ---
-title: Tutorials
+title: Advertiser tutorials
 ---
 
-# Coming Soon
+![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
 
-This is an **example** markdown file. There's another one [here](/terms).
+<br />
 
-<Button colorScheme="blue">Test Button</Button>
+<h1>Advertiser tutorials</h1>
+
+<h4>Coming soon...</h4>
