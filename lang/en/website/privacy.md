@@ -19,7 +19,7 @@ twitter_image: test
 
 ![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
 
-# Plugin.IO Privacy Policy
+# Plugin.IO Privacy Policy - Draft
 
 ## 📖 Contents
 - [Introduction](#introduction)
@@ -92,6 +92,7 @@ To use some Plugin.IO service, it's not necessary to create an account. Services
 <br />
 
 <a name="public-information"></a>
+
 ## 🔸 Public Information
 
 Almost all activity on Plugin.IO is public. This includes your profile information, and certain information about your content such as time and date of publication. If you like, share or reply to a post, this information is publicly available and used to improve the delivery of content to you. This is achieved using heuristics and Plugin.IO does not keep a direct record of your engagement with our services to target content to you. Information about you might be posted by other users such as mentioning you in a public post.
@@ -103,6 +104,7 @@ By publicly posting content to Plugin.IO, you are instructing us to disclose tha
 <br />
 
 <a name="direct-messages"></a>
+
 ## 🔸 Direct Messages
 
 Plugin.IO provides features that allow users to communicate using direct messages. When you communicate with other users via direct messages, we store and process them for purposes such as link shortening using [huk.to](https://huk.to), spam prevention, the detection of prohibited images and when acting on reported issues. We only share direct messages with their intended recipient. Please remember that when you send direct messages, the recipient of those messages have their own copy that can persist. Even if you delete your copy of a message, a recipient may duplicate, share or store that message content.
@@ -110,13 +112,15 @@ Plugin.IO provides features that allow users to communicate using direct message
 <br />
 
 <a name="payment-information"></a>
-## 🔸 Payment Information
+
+## Payment Information
 
 Plugin.IO uses [Stripe](https://stripe.com) for all payments. You can learn about how Stripe handles your data from the Stripe [privacy policy](https://stripe.com/privacy). We never stores any of your payment or billing information.
 
 <br />
 
 <a name="manage-privacy-settings"></a>
+
 ## 🔸 Manage your Privacy Settings
 
 You can manage how you want Plugin.IO to handle certain types of private data in your [privacy settings](https://plugin.io/settings). Here you can decide things like:
@@ -140,6 +144,7 @@ You can manage how you want Plugin.IO to handle certain types of private data in
 <br />
 
 <a name="location-information"></a>
+
 ## 🔸 Location Information
 
 We use information, such as your IP address or device settings to better understand your location whilst using Plugin.IO services. We never request fine-grain location information and advice the use of a Virtual Private Network (VPN) service if you wish to mask your IP information. We share anonymized, inferred location information through our analytics services to help developers, content creators, publishers and advertisers to better understand their audience.
@@ -149,6 +154,7 @@ Subject to your [privacy settings](https://plugin.io/settings), we may also use 
 <br />
 
 <a name="links"></a>
+
 ## 🔸 Links
 
 When you use Plugin.IO applications on other websites, we track the link that you visited. We may use that information to allow developers and publishers to understand their audience. Plugin.IO may use this information to remove applications that are hosted on malicious websites. Links are not associated to your account and we do **NOT** use link tracking to record your movement across the internet.
@@ -156,6 +162,7 @@ When you use Plugin.IO applications on other websites, we track the link that yo
 <br />
 
 <a name="cookies"></a>
+
 ## 🔸 Cookies
 
 Cookies are small pieces of data that are stored on your computer or mobile device. Cookies allow websites to remember things about your usage. Plugin.IO has a minimal cookie policy and as such we **ONLY** use cookies to remember your preferences and to authenticate your identity. We do **NOT** use cookie tracking. You may use many features of Plugin.IO without accepting cookies, such as searching public user profiles and applications. If browser cookies are not enabled, some services may not function correctly, this is because we store an authorization token to validate your login.
@@ -163,6 +170,7 @@ Cookies are small pieces of data that are stored on your computer or mobile devi
 <br />
 
 <a name="log-data"></a>
+
 ## 🔸 Log Data
 
 When you view content or interact with Plugin.IO services, we receive information known as "Log Data". This data includes information such as your IP address, operating system, browser type, operating system, device information, referring webpage. We use Log Data to improve the content that we show to you, filter incompatible applications, improve our services, to provide analytics data to the Plugin.IO dashboard and to protect the security of user accounts.
@@ -170,6 +178,7 @@ When you view content or interact with Plugin.IO services, we receive informatio
 <br />
 
 <a name="application-data"></a>
+
 ## 🔸 Application Data
 
 When you view Plugin.IO applications on third-party websites, we may receive Log Data that includes information about the web page that you are visiting. We use this information to better understand the use of our services, to protect the safety and integrity of the Plugin.IO platform, to show more relevant content and to provide analytics data to the Plugin.IO dashboard. Application data is not associated to user accounts.
@@ -177,6 +186,7 @@ When you view Plugin.IO applications on third-party websites, we may receive Log
 <br />
 
 <a name="advertisers"></a>
+
 ## 🔸 Advertisers
 
 Advertising revenue allows Plugin.IO to support and improve our services. We distribute adverts using the Plugin.IO Advertising App, which adheres to the same data collection policy described in [Application Data](#application-data).
@@ -188,6 +198,7 @@ We process advertiser data to provide our advertising services. Advertisers can 
 <br />
 
 <a name="developers"></a>
+
 ## 🔸 Developers
 
 //
@@ -195,6 +206,7 @@ We process advertiser data to provide our advertising services. Advertisers can 
 <br />
 
 <a name="manage-additional-privacy-settings"></a>
+
 ## 🔸 Manage Additional Privacy Settings
 
 //
@@ -230,5 +242,6 @@ We process advertiser data to provide our advertising services. Advertisers can 
 ## ✳️ Changes to This Privacy Policy
 <hr />
 
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our processing of your personal data and will always be at https://plugin.io/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you within Plugin.IO, or by sending an email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
 <br />
