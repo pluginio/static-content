@@ -18,11 +18,13 @@ twitter_description: test
 twitter_image: test
 ---
 
-# Plugin.IO
+![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
+
+# Plugin.IO - Working draft
 
 [PLUGIN.IO](https://plugin.io)
 
-support@plugin.io
+### Last updated: November 12th, 2021
 
 <br />
 
@@ -375,15 +377,3 @@ Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plu
 
 <br />
 <br />
-<br />
-
-
-
-
----
-
-We have engineered a mechanism that gives no personal data to an app developer. Plugin.IO does **NOT** require any personal information, other than what is necessary by law (such as COPPA compliance), account reclamation and we **NEVER** track users via cookies.
-
-only collects data that is required by law and/or used to recover or protect a users account from unauthorized access. We do not provide pseudo-private communication channels or mechanisms that promote two way conversation. We never use cookie tracking techniques or pass user data to third-party applications, with the exception of the account username. This lack of data collection and attention to user privacy
-
----
