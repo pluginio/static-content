@@ -63,7 +63,7 @@ With any form of design communication, there must be a formal protocol, a design
 
 - Adaptability
 - Intent
-- Re-usability
+- Reusability
 
 <br />
 
