@@ -18,14 +18,22 @@ twitter_description: test
 twitter_image: test
 ---
 
+
+![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
+
+<br />
+
+# ✳️ Plugin.IO Design System - AIR
+April 15th, 2021 • *6 min read*
+
+<br />
+
+
 By **Gary Paluk** • Follow on [Twitter](https://twitter.com/garypaluk)
 
 >Gary is the CEO of Plugin.IO and Senior UX Engineer at CrowdStrike, Inc. Throughout his 20 year development career, he has always been striving to empower creators and developers whilst pushing the boundaries of web tech and user experience.
 
-![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
-
-# ✳️ Plugin.IO Design System - AIR
-April 15th, 2021 • *6 min read*
+<br />
 
 ### **In this article I will explain some of the decisions and requirements whilst building the Plugin.IO design system.**
 
