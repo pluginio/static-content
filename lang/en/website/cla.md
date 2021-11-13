@@ -1,3 +1,5 @@
+![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.jpg)
+
 # Individual Contributor License Agreement
 
 Thank you for your interest in contributing to open source software projects (“Projects”) made available by Plugin.IO Ltd or its affiliates (“Plugin.IO Ltd”). This Individual Contributor License Agreement (“Agreement”) sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit or have submitted, in any form and in any manner, to Plugin.IO Ltd in respect of any of the Projects (collectively “Contributions”). If you have any questions respecting this Agreement, please contact opensource@plugin.io.
