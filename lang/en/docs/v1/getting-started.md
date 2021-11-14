@@ -167,9 +167,9 @@ const MyComponent = () => {
 
 <br />
 
-We have created some examples to help you get started building Plugin.IO applications. These examples are MIT licenced and as such, you can do anything that you like with them. Have fun learning whilst adding new and exciting features.
+We have created some examples to help you get started building Plugin.IO applications. These examples are MIT licensed and as such, you can do anything that you like with them. Have fun learning whilst adding new and exciting features.
 
-**Note:** Please make significant changes if you plan on adding your App to the Plugin.IO [App Store](https://plugin.io/apps/).
+**Note:** Please make significant changes if you plan on adding your App to the Plugin.IO [App Store](https://plugin.io/store).
 
 <br />
 
@@ -199,7 +199,7 @@ npx degit pluginio/create-app/examples/loop your-project-name
 
 View the source code on [GitHub](https://github.com/pluginio/create-app/examples/loop) 🔗
 
-Try it live on [Plugin.IO](https://plugin.io/apps/?id=com.orkoa.loop) 🔗
+Try it live on [Plugin.IO](https://plugin.io/store/?id=com.orkoa.loop) 🔗
 
 <br />
 
