@@ -99,7 +99,8 @@ Special thanks go to our wonderful language contributors.
 
 Additional thanks to:
 
-Jack Richardson: [@jngrichardson](https://twitter.com/jngrichardson)
+* Jack Richardson - [@jngrichardson](https://twitter.com/jngrichardson) on Twitter
+* Rob Wells - [https://robert-wells.co.uk/](https://robert-wells.co.uk/)
 <br />
 <br />
 
