@@ -27,7 +27,7 @@ The referral program lets you earn a revenue share for each friend (“invitee�
 
 <br />
 
-**How to earn revenue**
+## ✳️ How to earn revenue
 
 1. Visit the [Invite page](https://plugin.io/invite) to get your referral link.
 
@@ -41,7 +41,7 @@ The referral program lets you earn a revenue share for each friend (“invitee�
 
 <br />
 
-**I haven’t received my referral payment**
+## ✳️ I haven’t received my referral payment
 
 Here are a few possible reasons you might not be eligible for the referral program.
 
@@ -51,7 +51,7 @@ Here are a few possible reasons you might not be eligible for the referral progr
 
 <br />
 
-**More details**
+## ✳️ More details
 
 * You can share your referral link via email, social networks, text message, or any of your favorite messaging apps like Facebook, WhatsApp and Twitter.
 
@@ -61,12 +61,12 @@ Here are a few possible reasons you might not be eligible for the referral progr
 
 <br />
 
-**Terms & conditions**
+## ✳️ Terms & conditions
 
 Promoting your referral code through the use of paid advertising on 'Plugin.IO' or Plugin.IO related keywords is prohibited. This includes, but is not limited to, bidding or running ads on search brand keywords that include 'Plugin.IO' or similar variations and using 'Plugin.IO' branded terms in your ad copy, is not appropriate. Referrers who engage in such activities will have their referral codes deactivated and all referrals resulting from such activities are ineligible for referral payments.
 
 <br />
 
-***Important Notice:***
+## ⚠️ Important Notice
 
 Unfortunately we can't guarantee payout on every account you refer due to the limitations mentioned above and risk of fraud, but we make a good faith effort to do so whenever possible. In addition, Plugin.IO reserves the right to change the terms of the referral program at any time due to changing market conditions, risk of fraud, or other reasons. By participating in the referral program you acknowledge that receiving payouts is not guaranteed by Plugin.IO.
