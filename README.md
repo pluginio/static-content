@@ -97,6 +97,12 @@ Special thanks go to our wonderful language contributors.
 <br />
 <br />
 
+Additional thanks to:
+
+Jack Richardson: [@jngrichardson](https://twitter.com/jngrichardson)
+<br />
+<br />
+
 # 🙏 Support Plugin.IO
 
 Your kind donations allow us to work together with dedicated translators, providing accessibility to millions of people around the world.
