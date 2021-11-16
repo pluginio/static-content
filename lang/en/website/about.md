@@ -25,7 +25,7 @@ twitter_image: test
 
 # About
 
-```
+```javascript
    ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄
    █▒▒░░░░░░░░░▒▒█
     █░░█░░░░░█░░█
@@ -64,7 +64,7 @@ We're not precious, you can find us on other social media:
 <br />
 <br />
 
-```
+```javascript
 █▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
 █▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
 ```
