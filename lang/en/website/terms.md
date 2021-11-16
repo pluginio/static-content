@@ -1,7 +1,7 @@
 ---
 title: Terms and conditions
 author: Gary Paluk
-description: Plugin.IO - Terms and conditions"
+description: Plugin.IO - Terms and conditions
 keywords: terms and conditions, web3, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
 og_type: website
 og_site_name: Plugin.IO
@@ -11,7 +11,7 @@ og_image: test
 og_url: test
 fb_app_id: 523943968175208
 twitter_card: test
-twitter_site: @pluginio
+twitter_site: "@pluginio"
 twitter_site_id: 216319337
 twitter_title: test
 twitter_description: test
