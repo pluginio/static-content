@@ -1,7 +1,7 @@
 ---
 title: About
 author: Gary Paluk
-description: Plugin.IO - About"
+description: Plugin.IO - About
 keywords: about, web3, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
 og_type: website
 og_site_name: Plugin.IO
@@ -11,7 +11,7 @@ og_image: test
 og_url: test
 fb_app_id: 523943968175208
 twitter_card: test
-twitter_site: @pluginio
+twitter_site: "@pluginio"
 twitter_site_id: 216319337
 twitter_title: test
 twitter_description: test
@@ -26,15 +26,15 @@ twitter_image: test
 # About
 
 ```javascript
-   ▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄
-   █▒▒░░░░░░░░░▒▒█
-    █░░█░░░░░█░░█
- ▄▄  █░░░▀█▀░░░█  ▄▄
-█░░█ ▀▄░░░░░░░▄▀ █░░█
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█░░╦ ╦╔╗╦ ╔╗╔╗╔╦╗╔╗░░█
-█░░║║║╠ ║ ║ ║║║║║╠ ░░█
-█░░╚╩╝╚╝╚╝╚╝╚╝╩ ╩╚╝░░█
+────▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
+────█▒▒░░░░░░░░░▒▒█───
+─────█░░█░░░░░█░░█────
+──▄▄──█░░░▀█▀░░░█──▄▄─
+─█░░█─▀▄░░░░░░░▄▀─█░░█
+─█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+─█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
+─█░░║║║╠─║─║─║║║║║╠─░░█
+─█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 ```
 
