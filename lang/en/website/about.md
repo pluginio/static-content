@@ -49,7 +49,7 @@ The Plugin.IO team are based out of of Manchester, England. Our love of social i
 We're not precious, you can find us on other social media:
 
 |Who Am I|Role|Social Links|
-|-----|----|----|
+|:-----|:----|:----|
 | Gary Paluk | CEO | [LinkedIn](https://www.linkedin.com/in/gpaluk) • [Twitter](https://twitter.com/garypaluk)  •  [Instagram](https://www.instagram.com/garypaluk/)|
 | Jack Burgess | CTO | [LinkedIn](https://www.linkedin.com/in/ninnjak)|
 | Warapun Paluk | Partnership Manager | [LinkedIn](https://www.linkedin.com/in/ninnjak) |
