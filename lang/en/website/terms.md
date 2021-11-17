@@ -40,7 +40,7 @@ Any use or reliance on any Content or materials posted via the Services or obtai
 
 We reserve the right to remove Content that violates the User Agreement, including for example, copyright or trademark violations or other intellectual property misappropriation, impersonation, unlawful conduct, or harassment.
 
-If you believe that your Content has been copied in a way that constitutes copyright infringement, please report this by visiting our support contact page (https://plugin.io/contact-us) or contacting our designated copyright agent at:
+If you believe that your Content has been copied in a way that constitutes copyright infringement, please report this by visiting our support contact page (https://plugin.io/support) or contacting our designated copyright agent at:
 
 Plugin.IO
 Attn: Copyright Agent
