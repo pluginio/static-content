@@ -5,19 +5,19 @@ keywords: terms and conditions, web3, social network, nft, plugin.io, pluginio, 
 author: Gary Paluk
 og_type: website
 og_site_name: Plugin.IO
-og_title: test
+og_title: Terms and conditions / Plugin.IO
 og_author: Gary Paluk
-og_description: test
-og_url: test
-og_image: test
-og_image_alt: test
+og_description: Plugin.IO - Terms and conditions
+og_url: https://plugin.io/terms
+og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
+og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
 fb_app_id: 523943968175208
-twitter_card: test
+twitter_card: summary
 twitter_site: "@pluginio"
 twitter_site_id: 216319337
-twitter_title: test
-twitter_description: test
-twitter_image: test
+twitter_title: Terms and conditions / Plugin.IO
+twitter_description: Plugin.IO - Terms and conditions
+twitter_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
 ---
 
 ![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png)
