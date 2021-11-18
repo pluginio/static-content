@@ -44,7 +44,7 @@ twitter_image: https://raw.githubusercontent.com/pluginio/static-content/main/la
 
 ## We do this for fun!
 
-The Plugin.IO team are based out of of Manchester, England. Our love of social is unsurpassed! Our mission set, to build the world's first crypto-social network on decentralized tech aka web3. Our mission was born out of frustration and our own desires to leave mainstream social networks. To allow users better data policies, greater freedoms and the ability to earn revenues from social content.
+The Plugin.IO team are based out of of Manchester, England. Our love of social is unsurpassed! Our mission set, to build the world's first crypto-social network on decentralized tech aka web3. Our mission was born out of frustration and our own desires to leave mainstream social networks. To provide better user data policies, greater freedoms and the ability to earn revenues from social content.
 
 <br />
 
