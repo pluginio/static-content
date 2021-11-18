@@ -83,7 +83,7 @@ As we continue to innovate in the creative and social space we will deliver serv
 
 As a digital currency and blockchain company, we take environmental impact very seriously. We made a clear decision to avoid any 'proof of work' consensus for our NFTs and also for NEKO, our prospective utility coin. Plugin.IO uses a private and permissioned blockchain in conjunction with industry leading trust authorities.
 
-Plugin.IO pledge 5% of all net profits to environmental good causes that work towards global net zero emissions targets. We will provide our annual report at: [https://plugin.io/net-zero](https://plugin.io/net-zero)
+Plugin.IO pledge 5% of all net profits to environmental good causes that work towards global net-zero emissions targets. We will provide our annual report at: [https://plugin.io/net-zero](https://plugin.io/net-zero)
 
 <br />
 <br />
