@@ -1,21 +1,23 @@
 ---
-title: About
-author: Gary Paluk
+title: About / Plugin.IO
 description: Plugin.IO - About
 keywords: about, web3, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
+author: Gary Paluk
 og_type: website
 og_site_name: Plugin.IO
-og_title: test
-og_description: test
-og_image: test
-og_url: test
+og_title: About / Plugin.IO
+og_author: Gary Paluk
+og_description: Plugin.IO - About
+og_url: https://plugin.io/terms
+og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
+og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
 fb_app_id: 523943968175208
-twitter_card: test
+twitter_card: summary
 twitter_site: "@pluginio"
 twitter_site_id: 216319337
-twitter_title: test
-twitter_description: test
-twitter_image: test
+twitter_title: About / Plugin.IO
+twitter_description: Plugin.IO - About
+twitter_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
 ---
 
 ![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png)
