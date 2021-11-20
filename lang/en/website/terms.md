@@ -12,7 +12,7 @@ og_url: https://plugin.io/terms
 og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
 og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
 fb_app_id: 523943968175208
-twitter_card: summary
+twitter_card: summary_large_image
 twitter_site: "@pluginio"
 twitter_site_id: 216319337
 twitter_title: Terms and conditions / Plugin.IO

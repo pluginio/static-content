@@ -1,21 +1,23 @@
 ---
-title: "Whitepaper"
-author: "Gary Paluk"
-description: "Plugin.IO - Whitepaper"
-keywords: "whitepaper, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto, digital, NFT"
-og_type: article
+title: NEKO whitepaper / Plugin.IO
+description: The NEKO whitepaper outlines a proposal for a new utility cryptocurrency to be used for the exchange of services and products on the Plugin.IO platform.
+keywords: whitepaper, web3, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
+author: Gary Paluk
+og_type: website
 og_site_name: Plugin.IO
-og_title: test
-og_description: test
-og_image: test
-og_url: test
+og_title: NEKO whitepaper / Plugin.IO
+og_author: Gary Paluk
+og_description: The NEKO whitepaper outlines a proposal for a new utility cryptocurrency to be used for the exchange of services and products on the Plugin.IO platform.r
+og_url: https://plugin.io/whitepaper
+og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner_blue.png
+og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
 fb_app_id: 523943968175208
-twitter_card: test
+twitter_card: summary_large_image
 twitter_site: "@pluginio"
 twitter_site_id: 216319337
-twitter_title: test
-twitter_description: test
-twitter_image: test
+twitter_title: NEKO whitepaper / Plugin.IO
+twitter_description: The NEKO whitepaper outlines a proposal for a new utility cryptocurrency to be used for the exchange of services and products on the Plugin.IO platform.
+twitter_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner_blue.png
 ---
 
 ![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png)
