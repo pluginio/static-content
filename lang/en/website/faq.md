@@ -13,13 +13,14 @@ image_alt: A cartoon image of a fairground. A hot air balloon floats by through 
 # FAQ
 
 ## 📖 Contents
-* [What is plugin.io all about](#what-is-plugin)
-* [When will the NFT marketplace be available](#when-nft)
-* [How can I join the plugin.io Discord server](#join-discord)
-* [How do I get an 'Early Bird' badge](#early-bird)
-* [How do I get an community level badge on Discord](#community-badge)
-* [Where can I find my POAP](#find-poap)
-* [Where can I get technical support](#support)
+* [What is plugin.io all about?](#what-is-plugin)
+* [When will the NFT marketplace be available?](#when-nft)
+* [How can I join the plugin.io Discord server?](#join-discord)
+* [How do I get an 'Early Bird' badge?](#early-bird)
+* [How do I get an community level badge on Discord?](#community-badge)
+* [Where can I find my POAP?](#find-poap)
+* [How can I get verified on plugin.io?](#get-verified)
+* [Where can I get technical support?](#support)
 
 <br />
 <br />
@@ -36,7 +37,7 @@ image_alt: A cartoon image of a fairground. A hot air balloon floats by through 
 
 <a name="when-nft"></a>
 
-## ✳️ **When will the NFT marketplace be available**
+## ✳️ **When will the NFT marketplace be available❓**
 ## 🙋 
 > We are currently awaiting third-party code from the Metaplex Foundation. We are doing all that we can to work to speed up the process.
 
@@ -45,7 +46,7 @@ image_alt: A cartoon image of a fairground. A hot air balloon floats by through 
 
 <a name="join-discord"></a>
 
-## ✳️ **How can I join the plugin.io Discord server**
+## ✳️ **How can I join the plugin.io Discord server❓**
 ## 🙋
 > You can join the Discord server by clicking the following invite link: [https://discord.com/invite/smxkM5Tjys](https://discord.com/invite/smxkM5Tjys)
 
@@ -66,7 +67,7 @@ image_alt: A cartoon image of a fairground. A hot air balloon floats by through 
 <a name="community-badge"></a>
 
 ## ✳️ **How do I get an community level badge on Discord❓**
-
+## 🙋
 > Since users are skilled in various areas, we recognize when users are actively helping the community through; education & skill sharing, asset creation, post sharing, engagement and community building etc. For example, our first community Level 1 member achieved this through attaining over 30 Discord invites, social media shares and active engagement on https://plugin.io
 
 <br />
@@ -75,7 +76,7 @@ image_alt: A cartoon image of a fairground. A hot air balloon floats by through 
 <a name="find-poap"></a>
 
 ## ✳️ **Where can I find my POAPs❓**
-
+## 🙋
 > If you were part of the Golden Ticket POAP drop then your POAP is already available in the POAP application from [https://poap.xyx](https://poap.xyz)
 
 > If you are awaiting a POAP from the 100 Collectables POAP drop then your NFT will minted to the Solana blockchain once the NFT marketplace is ready.
@@ -83,8 +84,19 @@ image_alt: A cartoon image of a fairground. A hot air balloon floats by through 
 <br />
 <br />
 
+<a name="get-verified"></a>
+
+## ✳️ **How can I get a verified tick on plugin.io❓**
+## 🙋
+> Account verification is currently unavailable. We will provide a complete verification system soon.
+
+> If you are claiming a pre-registered influencer account, please provide your business email address to the form on your profile. Our partnership team will contact you and guide you through the verification process.
+
+<br />
+<br />
+
 <a name="support"></a>
 
 ## ✳️ **Where can I get technical support❓**
-
-> For technical support, please do not post on the plugin.io personal posts, instead you can sent a technical question using the contact form at [https://plugin.io/support](https://plugin.io/support)
+## 🙋
+> For technical support, please **do not** post on plugin.io personal posts, instead you can send a technical question using the contact form at [https://plugin.io/support](https://plugin.io/support)
