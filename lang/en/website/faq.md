@@ -88,7 +88,7 @@ image_alt: A cartoon image of a fairground. A hot air balloon floats by through 
 
 ## ✳️ **How can I get a verified tick on plugin.io❓**
 ## 🙋
-> Account verification is currently unavailable. We will provide a complete verification system soon.
+> Account verification is currently unavailable. We will provide a complete verification system soon. ℹ️ **Please note:** you will not need to be verified to create NFT posts.
 
 > If you are claiming a pre-registered influencer account, please provide your business email address to the form on your profile. Our partnership team will contact you and guide you through the verification process.
 
