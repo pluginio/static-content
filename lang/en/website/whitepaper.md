@@ -1,11 +1,16 @@
 ---
-pageTitle: NEKO whitepaper / Plugin.IO
-pageDescription: The NEKO whitepaper outlines a proposal for a new utility cryptocurrency to be used for the exchange of services and products on the Plugin.IO platform.
-title: NEKO whitepaper / Plugin.IO
-description: The NEKO whitepaper outlines a proposal for a new utility cryptocurrency to be used for the exchange of services and products on the Plugin.IO platform.
-url: https://plugin.io/whitepaper
-image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner_blue.png
-image_alt: A cartoon image of a fairground. A hot air balloon floats by through a clear open blue sky.
+title: NEKO Whitepaper / Plugin.IO
+description: The NEKO whitepaper outlines a proposal for a new utility cryptocurrency to be used for the exchange of services and products on the Plugin.IO platform
+keywords: whitepaper, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
+author: Gary Paluk
+og_type: article
+og_title: NEKO Whitepaper / Plugin.IO
+og_author: Gary Paluk
+og_description: Plugin.IO - NEKO Whitepaper
+og_url: https://plugin.io/whitepaper
+og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
+og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
+twitter_card: summary_large_image
 ---
 
 ![A cartoon image of a fairground. A hot air balloon floats by through a clear open blue sky.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png)
@@ -14,7 +19,7 @@ image_alt: A cartoon image of a fairground. A hot air balloon floats by through 
 
 [PLUGIN.IO](https://plugin.io)
 
-### Last updated: November 12th, 2021
+### Last updated: June 20th, 2022
 
 <br />
 

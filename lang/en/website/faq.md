@@ -1,11 +1,16 @@
 ---
-pageTitle: FAQs / Plugin.IO
-pageDescription: Find answers to frequently asked questions about Plugin.IO services.
-title: FAQs / Plugin.IO
-description: Find answers to frequently asked questions about Plugin.IO services.
-url: https://plugin.io/faq
-image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner_blue.png
-image_alt: A cartoon image of a fairground. A hot air balloon floats by through a clear open blue sky.
+title: Frequently Asked Questions / Plugin.IO
+description: Plugin.IO - Frequently Asked Questions
+keywords: faq, faqs, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
+author: Gary Paluk
+og_type: article
+og_title: Frequently Asked Questions / Plugin.IO
+og_author: Gary Paluk
+og_description: Plugin.IO - Frequently Asked Questions
+og_url: https://plugin.io/faq
+og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
+og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
+twitter_card: summary_large_image
 ---
 
 ![A cartoon image of a fairground. A hot air balloon floats by through a clear open blue sky.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png)
@@ -39,7 +44,7 @@ image_alt: A cartoon image of a fairground. A hot air balloon floats by through 
 
 ## ✳️ **When will the NFT marketplace be available❓**
 ## 🙋 
-> We are currently awaiting third-party code from the Metaplex Foundation. We are doing all that we can to work to speed up the process.
+> We are currently awaiting third-party code from the Metaplex Foundation. We are doing all that we can to speed up the process.
 
 <br />
 <br />

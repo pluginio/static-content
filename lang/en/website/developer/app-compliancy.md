@@ -1,13 +1,13 @@
 ---
-title: Creator Documentation / Plugin.IO
-description: Plugin.IO - Creator Documentation
-keywords: creator, docs, documentation, web3, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
+title: App Compliancy / Plugin.IO
+description: Plugin.IO - App Compliancy
+keywords: compliancy, web3, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
 author: Gary Paluk
 og_type: article
-og_title: Creator Documentation / Plugin.IO
+og_title: App Compliancy / Plugin.IO
 og_author: Gary Paluk
-og_description: Plugin.IO - Creator Documentation
-og_url: https://plugin.io/creator/docs
+og_description: Plugin.IO - App Compliancy
+og_url: https://plugin.io/developer/app-compliancy
 og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
 og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
 twitter_card: summary_large_image
@@ -15,8 +15,6 @@ twitter_card: summary_large_image
 
 ![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png)
 
-<br />
+# App Compliancy
 
-<h1>Creator docs</h1>
-
-<h4>Coming soon...</h4>
+### Coming soon

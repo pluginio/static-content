@@ -1,23 +1,16 @@
 ---
-title: Terms and conditions / Plugin.IO
-description: Plugin.IO - Terms and conditions
-keywords: terms and conditions, web3, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
+title: Terms and Conditions / Plugin.IO
+description: Plugin.IO is public and content is immediately viewable and searchable by anyone around the world. We provide non-public ways to communicate on Plugin.IO too, through Direct Messages. Plugin.IO promotes usage under a pseudonym and not your real name.
+keywords: terms and conditions, terms, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
 author: Gary Paluk
-og_type: website
-og_site_name: Plugin.IO
-og_title: Terms and conditions / Plugin.IO
+og_type: article
+og_title: Terms and Conditions / Plugin.IO
 og_author: Gary Paluk
-og_description: Plugin.IO - Terms and conditions
+og_description: Plugin.IO - Terms and Conditions
 og_url: https://plugin.io/terms
 og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
 og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
-fb_app_id: 523943968175208
 twitter_card: summary_large_image
-twitter_site: "@pluginio"
-twitter_site_id: 216319337
-twitter_title: Terms and conditions / Plugin.IO
-twitter_description: Plugin.IO - Terms and conditions
-twitter_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
 ---
 
 ![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png)

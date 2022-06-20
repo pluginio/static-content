@@ -1,20 +1,16 @@
 ---
-title: "Privacy Policy"
-description: "Plugin.IO is public and content is immediately viewable and searchable by anyone around the world. We provide non-public ways to communicate on Plugin.IO too, through Direct Messages. Plugin.IO promotes usage under a pseudonym and not your real name."
-keywords: "privacy, plugin.io, pluginio, privacy policy"
+title: Privacy Policy / Plugin.IO
+description: Plugin.IO is public and content is immediately viewable and searchable by anyone around the world. We provide non-public ways to communicate on Plugin.IO too, through Direct Messages. Plugin.IO promotes usage under a pseudonym and not your real name.
+keywords: privacy policy, privacy, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
+author: Gary Paluk
 og_type: article
-og_site_name: Plugin.IO
-og_title: "Privacy Policy"
-og_description: "Plugin.IO is public and content is immediately viewable and searchable by anyone around the world. We provide non-public ways to communicate on Plugin.IO too, through Direct Messages. Plugin.IO promotes usage under a pseudonym and not your real name."
-og_image: test
-og_url: test
-fb_app_id: 523943968175208
-twitter_card: test
-twitter_site: "@pluginio"
-twitter_site_id: 216319337
-twitter_title: test
-twitter_description: test
-twitter_image: test
+og_title: Privacy Policy / Plugin.IO
+og_author: Gary Paluk
+og_description: Plugin.IO - Privacy Policy
+og_url: https://plugin.io/privacy
+og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
+og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
+twitter_card: summary_large_image
 ---
 
 ![A Plugin.IO branded banner that shows a young woman in front of a vivid blue background.](https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png)
