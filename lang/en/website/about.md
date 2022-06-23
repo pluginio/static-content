@@ -46,7 +46,7 @@ The Plugin.IO core team are located in Manchester, UK. Our love of social is uns
 |Name|Role|Profile|
 |:-----|:----|:----|
 | Gary Paluk | Managing Director | [@gary](https://plugin.io/gary) |
-| Jack Burgess | CTO | [@jack](https://www.plugin.io/jack) |
+| Jack Burgess | CTO | [@jack](https://plugin.io/jack) |
 | Warapun Paluk | Partnership Manager | [@wara](https://plugin.io/wara) |
 | Worawan Chaiwong | PR Manager Asia | [@bluepeace](https://plugin.io/bluepeace) |
 | Anthony Forrest-Hilton | Project Manager: HTML5 Games | [@ant](https://plugin.io/ant) |
