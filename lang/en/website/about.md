@@ -9,7 +9,7 @@ og_author: Gary Paluk
 og_description: Plugin.IO - About
 og_url: https://plugin.io/about
 og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
-og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
+og_image_alt: A cartoon image of a fairground. A hot air balloon floats by across an open blue sky
 twitter_card: summary_large_image
 ---
 
@@ -37,18 +37,21 @@ twitter_card: summary_large_image
 
 ## We do this for fun!
 
-The Plugin.IO team are based out of of Manchester, England. Our love of social is unsurpassed! Our mission set, to build the world's first crypto-social network on decentralized tech aka web3. Our mission was born out of frustration and our own desires to leave mainstream social networks, to provide better user data policies, greater freedoms and the ability to earn revenues from social content.
+The Plugin.IO team are based out of Manchester, UK. Our love of social is unsurpassed! Our mission set, to build the world's first crypto-social network on decentralized tech aka web3. Our mission was born out of frustration and our own desires to leave mainstream social networks, to provide better user data policies, greater freedoms, and the ability to earn revenues from social content.
 
 <br />
 
 We're not precious, you can find us on other social media:
 
-|WhoAmI|Role|Social Links|
+|Name|Role|Social Links|
 |:-----|:----|:----|
-| Gary Paluk | CEO | [LinkedIn](https://www.linkedin.com/in/gpaluk) • [Twitter](https://twitter.com/garypaluk)  •  [Instagram](https://www.instagram.com/garypaluk/)|
+| Gary Paluk | CEO | [LinkedIn](https://www.linkedin.com/in/gpaluk) <br /> [Twitter](https://twitter.com/garypaluk)  <br />  [Instagram](https://www.instagram.com/garypaluk/)|
 | Jack Burgess | CTO | [LinkedIn](https://www.linkedin.com/in/ninnjak)|
-| Warapun Paluk | Partnership Manager | [LinkedIn](https://www.linkedin.com/in/ninnjak) |
-| Worawan Chaiwong | PR Manager | [LinkedIn](https://www.linkedin.com/in/worawan-chaiwong-6a7a76215/)
+| Worawan Chaiwong | PR Manager Asia | [LinkedIn](https://www.linkedin.com/in/worawan-chaiwong-6a7a76215/) |
+| Anthony Forrest-Hilton | Project Manager HTML5 Games | [LinkedIn](https://www.linkedin.com/in/anthony-forrest-hilton-87b820a1/) |
+| Ketut Sandiarsa | Test Engineer | [LinkedIn](https://www.linkedin.com/in/ketut-sandiarsa-03749a2a/) |
+| Katopz Todsaporn | Solana Advisor | [LinkedIn](https://www.linkedin.com/in/katopz/) |
+| Omar Bessa | Bitcoin Advisor | [LinkedIn](https://www.linkedin.com/in/omarbessa/) |
 
 <br />
 
