@@ -21,41 +21,42 @@ twitter_card: summary_large_image
 # About
 
 ```javascript
-────▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄───
-────█▒▒░░░░░░░░░▒▒█───
-─────█░░█░░░░░█░░█────
-──▄▄──█░░░▀█▀░░░█──▄▄─
+────▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄────
+────█▒▒░░░░░░░░░▒▒█────
+─────█░░█░░░░░█░░█─────
+──▄▄──█░░░▀█▀░░░█──▄▄──
 ─█░░█─▀▄░░░░░░░▄▀─█░░█
 ─█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
 ─█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
 ─█░░║║║╠─║─║─║║║║║╠─░░█
 ─█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+─█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 ```
 
 <br />
 
 ## We do this for fun!
 
-The Plugin.IO team are based out of Manchester, UK. Our love of social is unsurpassed! Our mission set, to build the world's first crypto-social network on decentralized tech aka web3. Our mission was born out of frustration and our own desires to leave mainstream social networks, to provide better user data policies, greater freedoms, and the ability to earn revenues from social content.
+The Plugin.IO core team are located in Manchester, UK. Our love of social is unsurpassed! Our mission set, to build the world's first crypto-social web3.0 network on decentralized tech. Our mission was born out of frustration and our own desires to leave mainstream social networks, to provide better user data policies, greater freedoms and to lead the effort of helping social creators earn revenue from their content.
 
 <br />
 
-We're not precious, you can find us on other social media:
+## Awesome team members
 
-|Name|Role|Social Links|
+|Name|Role|Profile|
 |:-----|:----|:----|
-| Gary Paluk | CEO | [LinkedIn](https://www.linkedin.com/in/gpaluk) <br /> [Twitter](https://twitter.com/garypaluk)  <br />  [Instagram](https://www.instagram.com/garypaluk/)|
-| Jack Burgess | CTO | [LinkedIn](https://www.linkedin.com/in/ninnjak)|
-| Worawan Chaiwong | PR Manager Asia | [LinkedIn](https://www.linkedin.com/in/worawan-chaiwong-6a7a76215/) |
-| Anthony Forrest-Hilton | Project Manager HTML5 Games | [LinkedIn](https://www.linkedin.com/in/anthony-forrest-hilton-87b820a1/) |
-| Ketut Sandiarsa | Test Engineer | [LinkedIn](https://www.linkedin.com/in/ketut-sandiarsa-03749a2a/) |
-| Katopz Todsaporn | Solana Advisor | [LinkedIn](https://www.linkedin.com/in/katopz/) |
-| Omar Bessa | Bitcoin Advisor | [LinkedIn](https://www.linkedin.com/in/omarbessa/) |
+| Gary Paluk | Managing Director | [@gary](https://plugin.io/gary) |
+| Jack Burgess | CTO | [@jack](https://www.plugin.io/jack) |
+| Warapun Paluk | Partnership Manager | [@wara](https://plugin.io/wara) |
+| Worawan Chaiwong | PR Manager Asia | [@bluepeace](https://plugin.io/bluepeace) |
+| Anthony Forrest-Hilton | Project Manager: HTML5 Games | [@ant](https://plugin.io/ant) |
+| Ketut Sandiarsa | Devops Engineer | [@ktutnik](https://plugin.io/ktutnik) |
+| Katopz Todsaporn | Solana Engineer | [@katopz](https://plugin.io/katopz) |
+| Omar Bessa | Bitcoin / Ethereum Advisor | [@omarbessa](https://plugin.io/omarbessa) |
 
 <br />
 
-## Our core values
+## Core values
 
 <br />
 
