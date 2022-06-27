@@ -21,7 +21,7 @@ twitter_card: summary_large_image
 
 ## Creator Blog
 
-[<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/creator/creator-blog.jpg" width="100%" />](https://plugin.io/creator/blog)
+<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/creator/creator-blog.jpg" width="100%" />
 
 Are you are looking for new and exciting ways to promote your social channel? The creator blog details how to increase engagement, followers, likes and views on your social posts. Check out our articles on leveraging your network as a social influencer. [Visit now](https://plugin.io/creator/blog) ➡️
 
