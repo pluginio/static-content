@@ -31,7 +31,7 @@ Are you are looking for new and exciting ways to promote your social channel? Th
 
 ## Developer Blog
 
-[<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/developer/developer-blog.jpg" width="100%" />](https://plugin.io/developer/blog)
+<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/developer/developer-blog.jpg" width="100%" />
 
 Creating social apps and instant games just got a lot easier. Develop once and your content will run on all web capable platforms. Our SDK makes it simple to add monetization, high scores, feed share and other powerful social features. Stay one step ahead with our SDK features and check out the developer blog. [Visit now](https://plugin.io/developer/blog) ➡️
 
@@ -40,7 +40,7 @@ Creating social apps and instant games just got a lot easier. Develop once and y
 
 ## Publisher Blog
 
-[<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/publisher/publisher-blog.jpg" width="100%" />](https://plugin.io/publisher/blog)
+<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/publisher/publisher-blog.jpg" width="100%" />
 
 Want to increase revenue from your website whilst focusing on doing the things that you love? Whether you're a writer, blogger or designer, check out our hints and tips to help you increase social engagement. [Visit now](https://plugin.io/publisher/blog) ➡️
 
@@ -49,7 +49,7 @@ Want to increase revenue from your website whilst focusing on doing the things t
 
 ## Advertiser Blog
 
-[<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/advertiser/advertiser-blog.jpg" width="100%" />](https://plugin.io/advertiser/blog)
+<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/advertiser/advertiser-blog.jpg" width="100%" />
 
 Keep updated with ethical advertising tools from Plugin.IO. If you want to know more about how to leverage our platform for your next advertising campaign we're sure to have tips to help optimize your social reach for better marketing results. [Visit now](https://plugin.io/advertiser/blog) ➡️
 
@@ -58,7 +58,7 @@ Keep updated with ethical advertising tools from Plugin.IO. If you want to know 
 
 ## Company Blog
 
-[<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/company/company-blog.jpg" width="100%" />](https://plugin.io/company/blog)
+<Image alt="Plugin.IO logo" src="https://pluginio.s3.amazonaws.com/pluginio/blog/company/company-blog.jpg" width="100%" />
 
 Find out the latest information from the Plugin.IO team. If you'd like to know more about upcoming investment opportunities or you're already a stakeholder, you can learn about our product roadmaps, investor relations and community initiatives. [Visit now](https://plugin.io/company/blog) ➡️
 
