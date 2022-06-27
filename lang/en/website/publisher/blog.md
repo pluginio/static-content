@@ -19,4 +19,15 @@ twitter_card: summary_large_image
 
 # Publisher blog
 
-### Coming soon...
+Coming soon...
+
+<br />
+<br />
+
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<Image style="align-self:end;" alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="75px" width="px" />
+
+<br />
+<br />
