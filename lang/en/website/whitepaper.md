@@ -365,7 +365,7 @@ Salmon, Felix (March 12, 2021). ["How to exhibit your very own $69 million Beepl
 ---
 Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
 
-<Image style="align-self:end;" alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="75px" width="75px" />
+<Image alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="75px" width="75px" />
 
 <br />
 <br />
