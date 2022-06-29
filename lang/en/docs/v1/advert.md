@@ -1,7 +1,7 @@
 ---
 title: Advert API / Plugin.IO
 description: Plugin.IO - Advert API
-keywords: faq, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
+keywords: advert, api, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
 author: Gary Paluk
 og_type: article
 og_title: Advert API / Plugin.IO
@@ -172,4 +172,4 @@ api.advert.showVideoReward("advert-reward-id");
 ---
 Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
 
-<Image style="float:right" alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="75px" width="75px" />
+<Image alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="75px" width="75px" />

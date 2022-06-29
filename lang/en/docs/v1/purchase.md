@@ -23,7 +23,7 @@ twitter_card: summary_large_image
 
 # ✳️ Purchase API
 
-<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23"> 
+<img alt="This feature is in beta" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/beta-icon.png" height="23px"> 
 
 **WARNING:** Plugin.IO Purchases are currently running in **beta mode** and will not be chargable.
 
@@ -33,4 +33,4 @@ twitter_card: summary_large_image
 ---
 Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
 
-<Image style="float:right" alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="75px" width="75px" />
+<Image alt="Plugin.IO logo" src="https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/logo.png" height="75px" width="75px" />
