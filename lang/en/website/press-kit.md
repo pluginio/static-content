@@ -71,15 +71,19 @@ Upon collaborating with friend and BSc Hons graduate Jack Burgess, in May 2021, 
 
 Plugin.IO launched on the 12th of November 2021 as Early Access, allowing users to contribute to testing and feature concepts via an official Discord channel. The initial 1000 members received 'Early Bird' badges which are NFTs minted to the Solana blockchain.
 
-The social platform launched their official community NFT project names #pixles on the 20th May 2022. Pixels are 32x32 pixel profile images, that are inspired by Japanese manga, and limited to two pallettes with four colors each. #pixels allows community members to contribute their artwork to a curated NFT collection. NFTs are minted to the Solana blockchain and sent to the users wallet.
+The social platform launched their official community NFT project names #pixles on the 20th May 2022. Pixels are 32x32 pixel profile images, that are inspired by Japanese manga, and limited to two pallettes with four colors each. #pixels allows community members to contribute their artwork to a curated NFT collection. NFTs are minted to the Solana blockchain and sent back to the original creators wallet.
 
 <br />
 
 ## ✳️ Videos
 
+Coming soon...
+
 <br />
 
 ## ✳️ Images
+
+Coming soon...
 
 <br />
 
