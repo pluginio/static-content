@@ -110,3 +110,14 @@ We would like to thank the creators of tools and libraries that we have used and
 - [Material Design Icons](https://materialdesignicons.com/)
 
 <br />
+<br />
+
+```javascript
+█▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
+█▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
+```
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<br />
+<br />

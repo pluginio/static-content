@@ -98,3 +98,16 @@ In the event that any provision of these Terms is held to be invalid or unenforc
 These Terms are an agreement between you and Plugin.IO Ltd, 29 Eastgate, Macclesfield, Cheshire. United Kingdom. If you have any questions about these Terms, please contact us.
 
 Effective: November 12, 2021
+
+<br />
+<br />
+
+```javascript
+█▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
+█▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
+```
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<br />
+<br />

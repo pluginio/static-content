@@ -20,3 +20,16 @@ twitter_card: summary_large_image
 # Gettings started
 
 ### Coming soon...
+
+<br />
+<br />
+
+```javascript
+█▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
+█▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
+```
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<br />
+<br />

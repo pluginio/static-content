@@ -1,13 +1,13 @@
 ---
-title: App Terms / Plugin.IO
-description: Plugin.IO - App Terms
-keywords: Terms, web3, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
+title: Contributor License Agreement / Plugin.IO
+description: Plugin.IO - Contributor License Agreement
+keywords: cla, social network, nft, plugin.io, pluginio, NEKO, token, cryptocurrency, crypto
 author: Gary Paluk
 og_type: article
-og_title: App Terms / Plugin.IO
+og_title: Contributor License Agreement / Plugin.IO
 og_author: Gary Paluk
-og_description: Plugin.IO - App Terms
-og_url: https://plugin.io/developer/app-terms
+og_description: Plugin.IO - Contributor License Agreement
+og_url: https://plugin.io/cla
 og_image: https://raw.githubusercontent.com/pluginio/static-content/main/lang/en/docs/v1/images/header_banner.png
 og_image_alt: A cartoon image of fairground. A hot air balloon floats by through an open blue sky
 twitter_card: summary_large_image
@@ -70,3 +70,16 @@ This Agreement shall be governed by and construed in accordance with the laws of
 ## Assignment
 
 You agree that Plugin.IO Ltd may assign this Agreement, and all of its rights, obligations and licenses hereunder.
+
+<br />
+<br />
+
+```javascript
+█▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
+█▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
+```
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<br />
+<br />

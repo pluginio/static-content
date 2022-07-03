@@ -35,28 +35,28 @@ twitter_card: summary_large_image
 
 <br />
 
-## We do this for fun!
+## ✳️ We do this for fun!
 
-The Plugin.IO core team are located in Manchester, UK. Our love of social is unsurpassed! Our mission set, to build the world's first crypto-social web3.0 network on decentralized tech. Our mission was born out of frustration and our own desires to leave mainstream social networks, to provide better user data policies, greater freedoms and to lead the effort of helping social creators earn revenue from their content.
+The Plugin.IO core team are based in Manchester, England. Our love of social is unsurpassed! Our mission set, to build the world's first third-party ad free, crypto-social, web3 network on decentralized technologies. Our mission was born out of our desire to offer a safer alternative to mainstream social networks, to provide better user data policies, greater freedoms and to lead the effort of helping social creators earn revenue from their content.
 
 <br />
 
-## Awesome team members
+## ✳️ Team Plugin.IO
 
 |Name|Role|Profile|
 |:-----|:----|:----|
 | Gary Paluk | Managing Director | [@gary](https://plugin.io/gary) |
 | Jack Burgess | CTO | [@jack](https://plugin.io/jack) |
+| Ketut Sandiarsa | Devops Engineer | [@ktutnik](https://plugin.io/ktutnik) |
 | Warapun Paluk | Partnership Manager | [@wara](https://plugin.io/wara) |
 | Worawan Chaiwong | PR Manager Asia | [@bluepeace](https://plugin.io/bluepeace) |
 | Anthony Forrest-Hilton | Project Manager: HTML5 Games | [@ant](https://plugin.io/ant) |
-| Ketut Sandiarsa | Devops Engineer | [@ktutnik](https://plugin.io/ktutnik) |
 | Katopz Todsaporn | Solana Engineer | [@katopz](https://plugin.io/katopz) |
 | Omar Bessa | Bitcoin / Ethereum Advisor | [@omarbessa](https://plugin.io/omarbessa) |
 
 <br />
 
-## Core values
+## ✳️ Core values
 
 <br />
 
@@ -89,3 +89,8 @@ Plugin.IO pledge 5% of all net profits to environmental good causes that work to
 █▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
 █▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
 ```
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<br />
+<br />

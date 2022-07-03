@@ -20,3 +20,16 @@ twitter_card: summary_large_image
 <h1>Creator docs</h1>
 
 <h4>Coming soon...</h4>
+
+<br />
+<br />
+
+```javascript
+█▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
+█▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
+```
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<br />
+<br />

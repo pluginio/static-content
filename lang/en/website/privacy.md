@@ -242,3 +242,14 @@ We process advertiser data to provide our advertising services. Advertisers can 
 We may revise this Privacy Policy from time to time. The most current version of the policy will govern our processing of your personal data and will always be at https://plugin.io/privacy. If we make a change to this policy that, in our sole discretion, is material, we will notify you within Plugin.IO, or by sending an email to the email address associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy.
 
 <br />
+<br />
+
+```javascript
+█▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
+█▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
+```
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<br />
+<br />

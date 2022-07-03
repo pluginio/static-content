@@ -105,3 +105,16 @@ twitter_card: summary_large_image
 ## ✳️ **Where can I get technical support❓**
 ## 🙋
 > For technical support, please **do not** post on plugin.io personal posts, instead you can send a technical question using the contact form at [https://plugin.io/support](https://plugin.io/support)
+
+<br />
+<br />
+
+```javascript
+█▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
+█▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
+```
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<br />
+<br />

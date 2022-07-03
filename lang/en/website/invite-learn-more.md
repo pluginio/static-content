@@ -65,3 +65,16 @@ Promoting your referral code through the use of paid advertising on 'Plugin.IO' 
 ## ⚠️ Important Notice
 
 Unfortunately we can't guarantee payout on every account you refer due to the limitations mentioned above and risk of fraud, but we make a good faith effort to do so whenever possible. In addition, Plugin.IO reserves the right to change the terms of the referral program at any time due to changing market conditions, risk of fraud, or other reasons. By participating in the referral program you acknowledge that receiving payouts is not guaranteed by Plugin.IO.
+
+<br />
+<br />
+
+```javascript
+█▀█ █░░ █░█ █▀▀ █ █▄░█ ░ █ █▀█
+█▀▀ █▄▄ █▄█ █▄█ █ █░▀█ ▄ █ █▄█
+```
+---
+Built with ❤️ by Team [Plugin.IO](https://github.com/orgs/pluginio/teams/plugin-io-team/members) 🚀
+
+<br />
+<br />
